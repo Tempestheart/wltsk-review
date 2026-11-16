@@ -1,0 +1,2620 @@
+{
+  "依然在演出并完整保留原貌的不包括": {
+    "question": "依然在演出,并完整保留原貌的不包括()。",
+    "options": [
+      "中国戏曲",
+      "印度梵剧",
+      "希腊悲剧",
+      "希腊喜剧"
+    ],
+    "type": "multiple",
+    "answer": "B#C#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 22:30:52",
+    "tokens": {
+      "input": 107,
+      "output": 5,
+      "total": 112
+    }
+  },
+  "在哪一年我国戏曲的代表被评为首批世界非物质遗产": {
+    "question": "在哪一年,我国戏曲的代表被评为首批世界非物质遗产?()",
+    "options": [
+      "1999年",
+      "1998年",
+      "2001年",
+      "2000年"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 22:30:56",
+    "tokens": {
+      "input": 102,
+      "output": 1,
+      "total": 103
+    }
+  },
+  "时间艺术和空间艺术是艺术的一般分类": {
+    "question": "时间艺术和空间艺术是艺术的一般分类。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 22:31:00",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "中国戏曲是一种具有中国民族特色的艺术": {
+    "question": "中国戏曲是一种具有中国民族特色的艺术。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 22:31:04",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "目前学术界大部分学者都认可约年前形成了戏曲": {
+    "question": "目前学术界大部分学者都认可，约（）年前形成了戏曲。",
+    "options": [
+      "800年前",
+      "1000年前",
+      "600年前",
+      "700年前"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 22:58:28",
+    "tokens": {
+      "input": 99,
+      "output": 1,
+      "total": 100
+    }
+  },
+  "哪一部书籍中记录了予击石拊石百兽率舞": {
+    "question": "哪一部书籍中记录了“予击石拊石,百兽率舞。”?()",
+    "options": [
+      "《论语》",
+      "《尚书》",
+      "《杂谈》",
+      "《天工开物》"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 22:58:32",
+    "tokens": {
+      "input": 106,
+      "output": 1,
+      "total": 107
+    }
+  },
+  "中国戏曲的构成部分不包括": {
+    "question": "中国戏曲的构成部分不包括()。",
+    "options": [
+      "做",
+      "唱",
+      "喝",
+      "念"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 22:58:35",
+    "tokens": {
+      "input": 89,
+      "output": 1,
+      "total": 90
+    }
+  },
+  "中国戏曲的起源过程悠久而骄人": {
+    "question": "中国戏曲的起源过程悠久而骄人。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 22:58:39",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "后来用什么来指称参军戏": {
+    "question": "后来用什么来指称参军戏?()",
+    "options": [
+      "唐戏",
+      "歌戏",
+      "杂剧",
+      "军戏"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 23:21:52",
+    "tokens": {
+      "input": 94,
+      "output": 1,
+      "total": 95
+    }
+  },
+  "戏曲中哪种表现手段不能用来表现孙叔敖": {
+    "question": "戏曲中哪种表现手段不能用来表现孙叔敖?()",
+    "options": [
+      "唱歌",
+      "说话",
+      "模拟人物",
+      "跳舞"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 23:21:56",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "哪一种人物的职责类似现代的导演职责": {
+    "question": "哪一种人物的职责类似现代的导演职责?()",
+    "options": [
+      "影戏",
+      "戏头",
+      "负末",
+      "负影"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 23:22:01",
+    "tokens": {
+      "input": 94,
+      "output": 1,
+      "total": 95
+    }
+  },
+  "参军戏中的领头人物是负静": {
+    "question": "参军戏中的领头人物是负静。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 23:22:05",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "下面哪一项是戏曲成熟的主要标志": {
+    "question": "下面哪一项是戏曲成熟的主要标志?()",
+    "options": [
+      "剧本",
+      "唱歌",
+      "戏票",
+      "旁白"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 23:48:49",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "哪个戏种中出现了剧本": {
+    "question": "哪个戏种中出现了剧本?()",
+    "options": [
+      "杂戏",
+      "优",
+      "北戏",
+      "南戏"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 23:48:53",
+    "tokens": {
+      "input": 92,
+      "output": 1,
+      "total": 93
+    }
+  },
+  "谁提出了间离效果": {
+    "question": "谁提出了间离效果?()",
+    "options": [
+      "黄佐临",
+      "斯坦尼斯拉夫司斯基",
+      "布莱希特",
+      "梅兰芳"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 23:48:57",
+    "tokens": {
+      "input": 99,
+      "output": 1,
+      "total": 100
+    }
+  },
+  "南戏当中的热门话题是婚变": {
+    "question": "南戏当中的热门话题是婚变。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/23 23:49:01",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "关汉卿共创作的元杂剧的数量是": {
+    "question": "关汉卿共创作的元杂剧的数量是()。",
+    "options": [
+      "67部",
+      "77部",
+      "47部",
+      "57部"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/24 00:28:05",
+    "tokens": {
+      "input": 97,
+      "output": 1,
+      "total": 98
+    }
+  },
+  "著有《蝴蝶梦》的是": {
+    "question": "著有《蝴蝶梦》的是()。",
+    "options": [
+      "白朴",
+      "关汉卿",
+      "王实甫",
+      "马致远"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/24 00:28:09",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "形容多才多艺的女子可以用才人这个词": {
+    "question": "形容多才多艺的女子可以用才人这个词。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/24 00:28:13",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "中国著名的悲剧传统剧目之一是《窦娥冤》": {
+    "question": "中国著名的悲剧传统剧目之一是《窦娥冤》。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/24 00:28:17",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "元杂剧主要代表作家有": {
+    "question": "元杂剧主要代表作家有()。",
+    "options": [
+      "关汉卿",
+      "马致远",
+      "王实甫",
+      "梅兰芳"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/24 00:49:17",
+    "tokens": {
+      "input": 105,
+      "output": 5,
+      "total": 110
+    }
+  },
+  "哪个剧种中国戏曲史上的第一个黄金时代": {
+    "question": "哪个剧种中国戏曲史上的第一个黄金时代?()",
+    "options": [
+      "京剧",
+      "昆曲",
+      "南戏",
+      "元杂剧"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/24 00:49:20",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "楔子原本指的是木工使用的物品": {
+    "question": "楔子原本指的是木工使用的物品。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/24 00:49:29",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "元杂戏一般分为五折": {
+    "question": "元杂戏一般分为五折。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/24 00:50:00",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "《西厢记》中的人物不包括": {
+    "question": "《西厢记》中的人物不包括（）。",
+    "options": [
+      "莺莺",
+      "张生",
+      "王实甫",
+      "红娘"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 19:23:24"
+  },
+  "元杂剧四大家不包括": {
+    "question": "元杂剧四大家不包括（）。",
+    "options": [
+      "关汉卿",
+      "马致远",
+      "王实甫",
+      "高明"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 19:23:27"
+  },
+  "哪部喜剧中有碧云天黄花地西风景北雁南飞这句著名词句": {
+    "question": "哪部喜剧中有“碧云天，黄花地，西风景，北雁南飞。”这句著名词句？",
+    "options": [
+      "《桃花扇》",
+      "《窦娥冤》",
+      "《汉宫秋》",
+      "《西厢记》"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 19:23:30"
+  },
+  "被元代人评价为天下夺魁的作品是《西厢记》": {
+    "question": "被元代人评价为天下夺魁的作品是《西厢记》。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 19:23:34",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "著有《王粲登楼》的是": {
+    "question": "著有《王粲登楼》的是（）。",
+    "options": [
+      "关汉卿",
+      "马致远",
+      "王实甫",
+      "郑光祖"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 20:05:29"
+  },
+  "哪一部作品是最早的传奇": {
+    "question": "哪一部作品是最早的传奇？",
+    "options": [
+      "《西游记》",
+      "《琵琶记》",
+      "《窦娥冤》",
+      "《封神演义》"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 20:05:32"
+  },
+  "蒙古灭金的前后是元杂剧最繁华时期": {
+    "question": "蒙古灭金的前后是元杂剧最繁华时期。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 20:05:36",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "元杂剧在明代之前就出现了衰落现象": {
+    "question": "元杂剧在明代之前就出现了衰落现象。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 20:05:40",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "《牡丹亭》表现的故事发生在哪个朝代": {
+    "question": "《牡丹亭》表现的故事发生在哪个朝代？",
+    "options": [
+      "明代",
+      "元代",
+      "北宋",
+      "南宋"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 20:28:11"
+  },
+  "著有《牡丹亭》的是": {
+    "question": "著有《牡丹亭》的是（）。",
+    "options": [
+      "汤显祖",
+      "施耐庵",
+      "王实甫",
+      "关汉卿"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 20:28:14"
+  },
+  "被称为词曲之祖是《琵琶记》": {
+    "question": "被称为词曲之祖是《琵琶记》。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 20:28:18",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "演出样式和数量在明清传奇中变得空前繁荣": {
+    "question": "演出样式和数量在明清传奇中变得空前繁荣。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 20:28:22",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "下面哪一位是苏州派作家的代表人物": {
+    "question": "下面哪一位是“苏州派”作家的代表人物？",
+    "options": [
+      "汤显祖",
+      "李玉",
+      "梅兰芳",
+      "郑板桥"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 20:51:07"
+  },
+  "苏州派的代表作不包括": {
+    "question": "“苏州派”的代表作不包括（）。",
+    "options": [
+      "《人兽关》",
+      "《一捧雪》",
+      "《牡丹亭》",
+      "《永团圆》"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 20:51:10"
+  },
+  "杜丽娘是《牡丹亭》中的人物": {
+    "question": "杜丽娘是《牡丹亭》中的人物。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 20:51:14",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "世界戏剧当中浪漫主义的杰作人物之一是杜丽娘": {
+    "question": "世界戏剧当中浪漫主义的杰作人物之一是杜丽娘。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 20:51:18",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "下面哪一选项是孔尚任的代表作": {
+    "question": "下面哪一选项是孔尚任的代表作？",
+    "options": [
+      "《长生殿》",
+      "《琵琶记》",
+      "《桃花扇》",
+      "《牡丹亭》"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 22:24:23"
+  },
+  "《桃花扇》讲述的故事发生在哪一朝代": {
+    "question": "《桃花扇》讲述的故事发生在哪一朝代？",
+    "options": [
+      "明代",
+      "清代",
+      "宋代",
+      "南明"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 22:24:26"
+  },
+  "孔尚任是孔子的后代": {
+    "question": "孔尚任是孔子的后代。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 22:24:30",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "清朝的孔尚任和洪昇被世人称为南洪北孔": {
+    "question": "清朝的孔尚任和洪昇被世人称为“南洪北孔”。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 22:24:34",
+    "tokens": {
+      "input": 89,
+      "output": 1,
+      "total": 90
+    }
+  },
+  "从什么时候开始传奇开始衰落": {
+    "question": "从什么时候开始传奇开始衰落？",
+    "options": [
+      "明中期",
+      "明初",
+      "清中期",
+      "清初"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 22:47:55"
+  },
+  "哪个剧种的压轴之作是《桃花扇》": {
+    "question": "哪个剧种的压轴之作是《桃花扇》？",
+    "options": [
+      "传奇",
+      "南戏",
+      "昆曲",
+      "元杂戏"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 22:47:58"
+  },
+  "弋阳腔的风格特色包括": {
+    "question": "弋阳腔的风格特色包括()。",
+    "options": [
+      "气势宏大",
+      "优美柔婉",
+      "刚健质朴",
+      "雅化"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 22:48:02",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "被称为百戏之祖的是昆曲": {
+    "question": "被称为百戏之祖的是昆曲。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 22:48:06",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "京杭大运河和哪条河流交汇之处是扬州": {
+    "question": "京杭大运河和哪条河流交汇之处是扬州？",
+    "options": [
+      "黄河",
+      "长江",
+      "赤水河",
+      "珠江"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 23:11:24"
+  },
+  "下面哪一项属于中国戏曲发展的第三个高潮": {
+    "question": "下面哪一项属于中国戏曲发展的第三个高潮？",
+    "options": [
+      "传奇",
+      "京剧",
+      "昆曲",
+      "清代地方戏"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 23:11:28"
+  },
+  "下面哪一项属于北方的声腔系统": {
+    "question": "下面哪一项属于北方的声腔系统？",
+    "options": [
+      "乱弹声腔系统",
+      "梆子声腔系统",
+      "皮黄声腔系统",
+      "弦索声腔系统"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 23:11:31"
+  },
+  "地方戏的褒扬说法是花部": {
+    "question": "地方戏的褒扬说法是花部。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 23:11:35",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "哪部戏中的主人公是肖桂英": {
+    "question": "哪部戏中的主人公是肖桂英?()",
+    "options": [
+      "西厢记",
+      "桃花扇",
+      "清风亭",
+      "庆顶珠"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 23:43:22",
+    "tokens": {
+      "input": 98,
+      "output": 1,
+      "total": 99
+    }
+  },
+  "清代地方戏风格特点不包括": {
+    "question": "清代地方戏风格特点不包括（）",
+    "options": [
+      "稳健",
+      "深沉",
+      "高雅",
+      "刚烈"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 23:43:26"
+  },
+  "古代的哪种人物才能够穿靴子": {
+    "question": "古代的哪种人物才能够穿靴子？",
+    "options": [
+      "渔民",
+      "农民",
+      "年纪比较大的人",
+      "有一定经济地位的人"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/26 23:43:29"
+  },
+  "清代地方戏是赞成民族压迫的": {
+    "question": "清代地方戏是赞成民族压迫的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/26 23:43:33",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "《清风亭》中的人物不包括": {
+    "question": "《清风亭》中的人物不包括（）。",
+    "options": [
+      "张继宝",
+      "焦循",
+      "阮大铖",
+      "红娘"
+    ],
+    "type": "multiple",
+    "answer": "B#C#D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 00:09:27"
+  },
+  "下面哪一项和《清风亭》的主题有关": {
+    "question": "下面哪一项和《清风亭》的主题有关？",
+    "options": [
+      "友情",
+      "亲情",
+      "爱国之情",
+      "爱情"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 00:09:30"
+  },
+  "哪个人物在《白蛇传》中代表勇于反抗决不妥协": {
+    "question": "哪个人物在《白蛇传》中代表勇于反抗，决不妥协？",
+    "options": [
+      "白蛇",
+      "青蛇",
+      "法海",
+      "许仙"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 00:09:33"
+  },
+  "官场故事是《雷峰塔》所要反映的": {
+    "question": "官场故事是《雷峰塔》所要反映的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 00:09:37",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "代言体在戏剧的发展过程中有什么作用": {
+    "question": "代言体在戏剧的发展过程中有什么作用？",
+    "options": [
+      "发酵作用",
+      "催化作用",
+      "正面作用",
+      "提高作用"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 00:35:29"
+  },
+  "下面哪一人物是关汉卿剧作人物的代表": {
+    "question": "下面哪一人物是关汉卿剧作人物的代表?()",
+    "options": [
+      "窦娥",
+      "杜十娘",
+      "张生",
+      "崔莹莹"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 00:35:33",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "代言体剧诗的特点是在吸取艺术凝聚变异的过程当中逐渐形成的": {
+    "question": "代言体“剧诗”的特点是在吸取艺术凝聚变异的过程当中逐渐形成的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 00:35:37",
+    "tokens": {
+      "input": 89,
+      "output": 1,
+      "total": 90
+    }
+  },
+  "现今还存活在舞台上的戏剧是当代戏剧的主要欣赏对象": {
+    "question": "现今还存活在舞台上的戏剧是当代戏剧的主要欣赏对象。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 00:35:41",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "什么样的诗可以叫做代言体的剧诗": {
+    "question": "什么样的诗可以叫做代言体的“剧诗”？",
+    "options": [
+      "行动",
+      "静止",
+      "低俗",
+      "高雅"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 01:20:51"
+  },
+  "被称为词余的是": {
+    "question": "被称为“词余”的是（）。",
+    "options": [
+      "词",
+      "诗",
+      "曲",
+      "剧"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 01:20:54"
+  },
+  "哪种文体出现以后剧诗有了萌动与发展的契机": {
+    "question": "哪种文体出现以后“剧诗”有了萌动与发展的契机？",
+    "options": [
+      "词",
+      "诗",
+      "曲",
+      "剧"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 01:20:57"
+  },
+  "诗不属于词的变体": {
+    "question": "诗不属于词的变体。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 01:21:01",
+    "tokens": {
+      "input": 78,
+      "output": 1,
+      "total": 79
+    }
+  },
+  "著有《人间词话》的是": {
+    "question": "著有《人间词话》的是（）。",
+    "options": [
+      "曹雪芹",
+      "梁启超",
+      "王国维",
+      "陶渊明"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 01:47:33"
+  },
+  "哪部剧作中写有摇橹催舟似箭发……滚滚江水翻浪花": {
+    "question": "哪部剧作中写有“摇橹催舟似箭发……滚滚江水翻浪花”?()",
+    "options": [
+      "《长生殿》",
+      "《窦娥冤》",
+      "《桃花扇》",
+      "《打渔杀家》"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 01:47:38",
+    "tokens": {
+      "input": 113,
+      "output": 1,
+      "total": 114
+    }
+  },
+  "谁归纳了写情要沁人心脾写景则在人耳目这一原则": {
+    "question": "谁归纳了写情要沁人心脾，写景则在人耳目这一原则？",
+    "options": [
+      "关汉卿",
+      "王国维",
+      "杜甫",
+      "王实甫"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 01:47:41"
+  },
+  "代言诗一般都是先写景后写情": {
+    "question": "代言诗一般都是先写景,后写情。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 01:47:45",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "下面不属于代言体剧诗特征的是": {
+    "question": "下面不属于代言体“剧诗”特征的是()。",
+    "options": [
+      "平庸化",
+      "性格化",
+      "拗口化",
+      "通俗化"
+    ],
+    "type": "multiple",
+    "answer": "A#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 02:14:22",
+    "tokens": {
+      "input": 106,
+      "output": 3,
+      "total": 109
+    }
+  },
+  "《梧桐雨》中描绘到了唐明皇": {
+    "question": "《梧桐雨》中描绘到了唐明皇。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 02:14:26",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "古代文学作品可以通过单纯的描写感情来说透所要表达的感情": {
+    "question": "古代文学作品可以通过单纯的描写感情来说透所要表达的感情。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 02:14:30",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "下面哪一种表现形式是介于诗歌跟一般的白话之间的": {
+    "question": "下面哪一种表现形式是介于诗歌跟一般的白话之间的？",
+    "options": [
+      "对白",
+      "舞蹈",
+      "韵白",
+      "旁白"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 23:09:54"
+  },
+  "哪一部戏剧中有前街里去心怀恨后街里去死无冤休推辞路远这一剧词": {
+    "question": "哪一部戏剧中有“前街里去心怀恨，后街里去死无冤，休推辞路远。”这一剧词？",
+    "options": [
+      "《长生殿》",
+      "《窦娥冤》",
+      "《桃花扇》",
+      "《打渔杀家》"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 23:09:57"
+  },
+  "用什么来指称京剧中普通的对白": {
+    "question": "用什么来指称京剧中普通的对白？",
+    "options": [
+      "对白",
+      "京白",
+      "韵白",
+      "旁白"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 23:10:00"
+  },
+  "窦娥心中强烈的愤慨之情通过枉将他气煞也么哥!这句话来抒发": {
+    "question": "窦娥心中强烈的愤慨之情通过“枉将他气煞也么哥!”这句话来抒发。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 23:10:04",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "清代戏剧中的高潮包括": {
+    "question": "清代戏剧中的高潮包括（）。",
+    "options": [
+      "中高潮",
+      "小高潮",
+      "主高潮",
+      "大高潮"
+    ],
+    "type": "multiple",
+    "answer": "B#C#D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 23:33:55"
+  },
+  "《长生殿》属于哪一戏曲种类": {
+    "question": "《长生殿》属于哪一戏曲种类？",
+    "options": [
+      "半本戏",
+      "成本戏",
+      "小说戏",
+      "回合戏"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 23:33:58"
+  },
+  "清代戏剧中需要高潮来配合的是什么场子": {
+    "question": "清代戏剧中需要高潮来配合的是什么场子？",
+    "options": [
+      "热场子",
+      "中场子",
+      "大场子",
+      "冷场子"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/27 23:34:02"
+  },
+  "戏剧形式在发展过程中越来越复杂": {
+    "question": "戏剧形式在发展过程中越来越复杂。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 23:34:06",
+    "tokens": {
+      "input": 79,
+      "output": 1,
+      "total": 80
+    }
+  },
+  "下面哪一项是鲁迅先生提出的文学语言的高标准": {
+    "question": "下面哪一项是鲁迅先生提出的文学语言的高标准?()",
+    "options": [
+      "文言",
+      "洁语",
+      "白话",
+      "炼话"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 23:57:19",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "大量的词句在中国戏曲的文词当中出现": {
+    "question": "大量的()词句在中国戏曲的文词当中出现。",
+    "options": [
+      "清词丽句",
+      "通俗词句",
+      "阳春白雪",
+      "白文词句"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 23:57:23",
+    "tokens": {
+      "input": 102,
+      "output": 1,
+      "total": 103
+    }
+  },
+  "戏曲中美视美听中的视它的一个方面是强调舞台表现效果": {
+    "question": "戏曲中“美视美听”中的“视”,它的一个方面是强调舞台表现效果。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 23:57:27",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "突出感情不太强调说理是中国戏曲的文学的第二个特点": {
+    "question": "突出感情不太强调说理是中国戏曲的文学的第二个特点。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/27 23:57:31",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "著有《凰求凤》《玉搔头》的是": {
+    "question": "著有《凰求凤》、《玉搔头》的是（）。",
+    "options": [
+      "李煜",
+      "李玉",
+      "李渔",
+      "李宇"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/28 00:20:23"
+  },
+  "将思维与统一起来是剧诗作家所要具备的能力": {
+    "question": "将思维与（）统一起来是剧诗作家所要具备的能力。",
+    "options": [
+      "诗句",
+      "表达",
+      "剧本",
+      "词语"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/28 00:20:26"
+  },
+  "李渔认为传奇不比文章文章做与读书人看故不怪其深戏文做与读书人与不读书人同看又与不读书之妇人小儿同看故贵浅不贵深": {
+    "question": "李渔认为“传奇不比文章,文章做与读书人看,故不怪其深,戏文做与读书人与不读书人同看,又与不读书之妇人小儿同看,故贵浅不贵深。”。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/28 00:20:30",
+    "tokens": {
+      "input": 122,
+      "output": 1,
+      "total": 123
+    }
+  },
+  "诗文之词采宜蕴藉而忌分明贵典雅而贱粗俗": {
+    "question": "诗文之词采宜蕴藉而忌分明,贵典雅而贱粗俗。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/28 00:20:34",
+    "tokens": {
+      "input": 90,
+      "output": 1,
+      "total": 91
+    }
+  },
+  "下列哪个反面可以不在文学作品中出现": {
+    "question": "下列哪个反面可以不在文学作品中出现?()",
+    "options": [
+      "事",
+      "理",
+      "实",
+      "情"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/29 18:43:26",
+    "tokens": {
+      "input": 90,
+      "output": 1,
+      "total": 91
+    }
+  },
+  "对剧中人物的进行充分恰当的表露才是好的戏剧作品": {
+    "question": "对剧中人物的()进行充分恰当的表露才是好的戏剧作品。",
+    "options": [
+      "感情",
+      "样貌",
+      "特征",
+      "个性"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/29 18:43:30",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "著有《原诗》的是": {
+    "question": "著有《原诗》的是（）。",
+    "options": [
+      "汤显祖",
+      "叶燮",
+      "王实甫",
+      "孟称舜"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/29 18:43:33"
+  },
+  "中国的戏曲文学并不善于写情": {
+    "question": "中国的戏曲文学并不善于写情。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/29 18:43:37",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "是欧洲戏剧中现代戏剧的标志": {
+    "question": "（）是欧洲戏剧中现代戏剧的标志。",
+    "options": [
+      "舞台渲染",
+      "人物表达",
+      "感情性",
+      "哲理性"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/29 19:08:51"
+  },
+  "汤显祖的作品不包括": {
+    "question": "汤显祖的作品不包括（）。",
+    "options": [
+      "《紫钗记》",
+      "《邯郸记》",
+      "《桃花扇》",
+      "《牡丹亭》"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/29 19:08:54"
+  },
+  "汤显祖不支持宋代理学": {
+    "question": "汤显祖不支持宋代理学。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/29 19:09:01",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "汤显祖是中国明代戏曲家": {
+    "question": "汤显祖是中国明代戏曲家。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/29 19:09:06",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "哪国戏剧作家的主要观点是形式为内容让路": {
+    "question": "哪国戏剧作家的主要观点是形式为内容让路？",
+    "options": [
+      "中国",
+      "日本",
+      "欧洲",
+      "非洲"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/29 22:57:39"
+  },
+  "地区戏剧的最高目标是把道德冲突以形象化": {
+    "question": "（）地区戏剧的最高目标是把道德冲突以形象化。",
+    "options": [
+      "中国",
+      "日本",
+      "东方",
+      "西方"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/29 22:57:42"
+  },
+  "中国的戏曲传达出来的是哲理意味的思考和结论": {
+    "question": "中国的戏曲传达出来的是哲理意味的思考和结论。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/29 22:57:46",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "传统的戏曲并不擅长将观众从感情阶段向哲理和论述阶段转变": {
+    "question": "传统的戏曲并不擅长将观众从感情阶段向哲理和论述阶段转变。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/29 22:57:50",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "通过一次又一次的来表现林冲的性格变化": {
+    "question": "通过一次又一次的（）来表现林冲的性格变化。",
+    "options": [
+      "语言",
+      "行动",
+      "韵白",
+      "舞蹈"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/29 23:21:36"
+  },
+  "在中国戏曲当中战争的关键步骤在某种程度上来说需要行动来表现": {
+    "question": "在中国戏曲当中,战争的关键步骤在某种程度上来说需要行动来表现。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/29 23:21:41",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "在行动当中塑造人物性格是戏曲的文学特点": {
+    "question": "在行动当中塑造人物性格是戏曲的文学特点。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/29 23:21:44"
+  },
+  "在行动当中塑造人物性格是戏曲的文学特点三": {
+    "question": "在行动当中塑造人物性格是戏曲的文学特点三。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/29 23:21:45",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "下面哪些词可以形容《四进士》中男主人公宋世杰的性格": {
+    "question": "下面哪些词可以形容《四进士》中男主人公宋世杰的性格？（）",
+    "options": [
+      "单纯",
+      "机警",
+      "仔细",
+      "乐观"
+    ],
+    "type": "multiple",
+    "answer": "B#C#D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/29 23:45:19"
+  },
+  "《四进士》中男主人公宋世杰是一个打抱不平爱伸张正义的人": {
+    "question": "《四进士》中男主人公宋世杰是一个打抱不平,爱伸张正义的人。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/29 23:45:23",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "在《女起解》中苏三的一路行走这个过程是作为一个简单的过场": {
+    "question": "在《女起解》中,苏三的一路行走这个过程是作为一个简单的过场。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/29 23:45:27",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "戏剧中包公最后放过了陈世美并没有对他进行处罚": {
+    "question": "戏剧中包公最后放过了陈世美,并没有对他进行处罚。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/30 00:08:39",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "传统戏有时候比较拖沓需要我们删繁就简": {
+    "question": "传统戏有时候比较拖沓,需要我们删繁就简。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/30 00:52:03",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "传统戏剧的改编有哪些应该注意的地方": {
+    "question": "传统戏剧的改编有哪些应该注意的地方？（）",
+    "options": [
+      "戏剧结构",
+      "音乐格局",
+      "语言风格",
+      "对白安排"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C#D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/30 01:15:42"
+  },
+  "《莺莺传》中张三最后选择和崔莺莺一起两人过上了平淡而幸福的生活": {
+    "question": "《莺莺传》中张三最后选择和崔莺莺一起,两人过上了平淡而幸福的生活。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/30 01:15:46",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "秦腔的特点有": {
+    "question": "秦腔的特点有（）。",
+    "options": [
+      "华丽",
+      "粗犷",
+      "细腻",
+      "朴实"
+    ],
+    "type": "multiple",
+    "answer": "B#C#D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/30 01:42:10"
+  },
+  "杨修是三国时期实际存在的人物": {
+    "question": "杨修是三国时期实际存在的人物。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/30 01:42:14",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "《曹操与杨修》是以京剧移植的剧目": {
+    "question": "《曹操与杨修》是以京剧移植的剧目。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/30 01:42:18",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "样板戏代表作品中的芭蕾舞剧有": {
+    "question": "样板戏代表作品中的芭蕾舞剧有（）。",
+    "options": [
+      "《红色娘子军》",
+      "《红灯记》",
+      "《白毛女》",
+      "《沙家浜》"
+    ],
+    "type": "multiple",
+    "answer": "A#C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/10/30 02:11:34"
+  },
+  "样板戏本身是革命现代戏": {
+    "question": "样板戏本身是革命现代戏。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/10/30 02:11:38",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "著名学者王国维是的人": {
+    "question": "著名学者王国维是（）的人？",
+    "options": [
+      "浙江",
+      "四川",
+      "海南",
+      "江西"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/11/3 22:50:52"
+  },
+  "音乐是一种听觉艺术": {
+    "question": "音乐是一种听觉艺术。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/3 22:50:56",
+    "tokens": {
+      "input": 77,
+      "output": 1,
+      "total": 78
+    }
+  },
+  "诗歌兼有听觉艺术和视觉艺术两方面的特征": {
+    "question": "诗歌兼有听觉艺术和视觉艺术两方面的特征。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/3 22:51:00",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "元杂剧在表演艺术上在舞蹈性上要求不高": {
+    "question": "元杂剧在表演艺术上,在舞蹈性上要求不高。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/3 23:14:20",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "韵白的韵律性比起唱的部分的韵要强得多": {
+    "question": "韵白的韵律性比起唱的部分的韵要强得多。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/3 23:38:36",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "《徐彻跑城》是时期的戏曲": {
+    "question": "《徐彻跑城》是（）时期的戏曲。",
+    "options": [
+      "元代",
+      "宋代",
+      "清代",
+      "唐代"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/11/4 00:13:37"
+  },
+  "中国戏曲当中把人的许多部位都可以作为表达感情的重要手段": {
+    "question": "中国戏曲当中,把人的许多部位都可以作为表达感情的重要手段。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/4 00:13:41",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "戏曲中帽翅的活动可以成为主人公心理活动最传神的展现": {
+    "question": "戏曲中帽翅的活动可以成为主人公心理活动最传神的展现。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/4 00:13:44",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "云手是一种手的动作": {
+    "question": "云手是一种手的动作。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/4 00:42:48",
+    "tokens": {
+      "input": 78,
+      "output": 1,
+      "total": 79
+    }
+  },
+  "戏曲中打功具有哪些形式的美": {
+    "question": "戏曲中打功具有哪些形式的美？（）",
+    "options": [
+      "动态美",
+      "夸张美",
+      "装饰美",
+      "静态美"
+    ],
+    "type": "multiple",
+    "answer": "B#C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/11/4 01:09:41"
+  },
+  "昆曲《醉写》在表演中作为马的道具其实是马鞭": {
+    "question": "昆曲《醉写》在表演中作为马的道具其实是马鞭。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/4 01:09:45",
+    "tokens": {
+      "input": 89,
+      "output": 1,
+      "total": 90
+    }
+  },
+  "应用戏曲程式表演程式来的自由在一定程度上是不改变程式的": {
+    "question": "应用戏曲程式表演程式来的自由在一定程度上是不改变程式的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/4 01:09:49",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "昆曲又称昆剧昆腔昆山腔是中国最古老的剧种": {
+    "question": "昆曲,又称昆剧、昆腔、昆山腔,是中国最古老的剧种。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 00:30:54",
+    "tokens": {
+      "input": 92,
+      "output": 1,
+      "total": 93
+    }
+  },
+  "正旦就是后来所说的青衣": {
+    "question": "正旦就是后来所说的青衣。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 00:30:58",
+    "tokens": {
+      "input": 79,
+      "output": 1,
+      "total": 80
+    }
+  },
+  "中国戏曲很重视戏曲美": {
+    "question": "中国戏曲很重视戏曲美。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 00:31:02",
+    "tokens": {
+      "input": 79,
+      "output": 1,
+      "total": 80
+    }
+  },
+  "虚实相生是由戏曲反映生活的基本特点所形成的的也是戏曲表演体系中的重要组成部分": {
+    "question": "虚实相生是由戏曲反映生活的基本特点所形成的的,也是戏曲表演体系中的重要组成部分。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 00:55:11",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "中国戏曲在很长时间在舞台上很难创造出一种真实的幻觉": {
+    "question": "中国戏曲在很长时间在舞台上很难创造出一种真实的幻觉。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 00:55:15",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "现代舞台上坐轿子轿子里的人是蹲着走的": {
+    "question": "现代舞台上坐轿子,轿子里的人是蹲着走的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 01:22:43",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "戏曲舞台上的虚拟动作是对现实生活动作的临摹表演": {
+    "question": "戏曲舞台上的虚拟动作是对现实生活动作的临摹表演。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 01:22:47",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "虚拟的表现手法中部分的具有象征意味的道具的写实非但不破坏这一手法的完整性反而增强了自身的表现力": {
+    "question": "虚拟的表现手法中,部分的具有象征意味的道具的写实,非但不破坏这一手法的完整性,反而增强了自身的表现力。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 01:47:02",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "戏曲的时空可以无限制的超越": {
+    "question": "戏曲的时空可以无限制的超越。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 01:47:06",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "历史的表演形态中还出现了象形的马舞": {
+    "question": "历史的表演形态中,还出现了象形的马舞。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 01:47:10",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "中国戏曲中的动作写意问题包括": {
+    "question": "中国戏曲中的动作写意问题包括（）。",
+    "options": [
+      "起霸",
+      "走边",
+      "趟马",
+      "斟茶"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C#D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/11/5 02:13:49"
+  },
+  "意主要表示表演者创作者对所反映生活的想法": {
+    "question": "“意”主要表示表演者创作者对所反映生活的想法。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 02:13:54",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "戏曲家荀慧生塑造的经典戏曲人物有": {
+    "question": "戏曲家荀慧生塑造的经典戏曲人物有（）",
+    "options": [
+      "阮大铖",
+      "崔莺莺",
+      "红娘",
+      "赵高"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/11/5 02:37:51"
+  },
+  "最有条件的中国戏曲表演艺术反而不提倡刻模子的做法": {
+    "question": "最有条件的中国戏曲表演艺术反而不提倡刻模子的做法。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 02:37:55",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "不同的理论家都认同演员要完全沉浸在角色之中": {
+    "question": "不同的理论家都认同演员要完全沉浸在角色之中。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 02:37:58",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "对于戏曲演员来说哭要哭在戏中是件很简单的事": {
+    "question": "对于戏曲演员来说哭要哭在戏中是件很简单的事。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 19:05:58",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "下列哪些是戏曲流派的创始人": {
+    "question": "下列哪些是戏曲流派的创始人？（）",
+    "options": [
+      "梅兰芳",
+      "周信芳",
+      "尚小云",
+      "程砚秋"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C#D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/11/5 19:26:41"
+  },
+  "戏曲流派是戏曲发展到一定阶段以后产生的都是师傅传给徒弟徒弟传递给徒孙的继承关系": {
+    "question": "戏曲流派是戏曲发展到一定阶段以后产生的,都是师傅传给徒弟,徒弟传递给徒孙的继承关系。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 19:26:45",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "戏曲演员的鞋靴盔头等行头基本上是来源于生活": {
+    "question": "戏曲演员的鞋靴、盔头等行头,基本上是来源于生活。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 19:49:09",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "戏装包括三个方面即演员头上戴的东西穿的衣服和脚上的东西": {
+    "question": "戏装包括三个方面,即演员头上戴的东西、穿的衣服和脚上的东西。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 19:49:13",
+    "tokens": {
+      "input": 90,
+      "output": 1,
+      "total": 91
+    }
+  },
+  "戏曲演员头上戴的东西叫做头盔": {
+    "question": "戏曲演员头上戴的东西叫做头盔。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 19:49:17",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "戏曲音乐在戏曲当中并不是特别重要可以被其他任何形式取代": {
+    "question": "戏曲音乐在戏曲当中并不是特别重要,可以被其他任何形式取代。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 20:15:04",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "声情并茂是中国戏曲特殊的规律": {
+    "question": "声情并茂是中国戏曲特殊的规律。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 20:15:08",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "中国戏曲可以根据以下哪些进行分析": {
+    "question": "中国戏曲可以根据以下哪些进行分析？（）",
+    "options": [
+      "声腔剧种",
+      "民族特点",
+      "声腔特点",
+      "剧种特点"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C#D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/11/5 22:36:54"
+  },
+  "秦腔在其发展过程中有板腔体统一的特征但在后面也有所发展": {
+    "question": "秦腔在其发展过程中有板腔体统一的特征,但在后面也有所发展。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 22:36:58",
+    "tokens": {
+      "input": 89,
+      "output": 1,
+      "total": 90
+    }
+  },
+  "新兴剧种兴起比较晚但已经形成了严格的戏曲体制": {
+    "question": "新兴剧种兴起比较晚,但已经形成了严格的戏曲体制。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/5 23:27:02",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "中国戏曲研究院成立后周恩来总理的题词是": {
+    "question": "中国戏曲研究院成立后周恩来总理的题词是？",
+    "options": [
+      "重视与改造",
+      "创新与变革",
+      "团结与教育",
+      "二者缺一不可"
+    ],
+    "type": "multiple",
+    "answer": "A#C#D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/11/5 23:51:14"
+  },
+  "面对跨世纪的戏曲文化应保持什么样的态度": {
+    "question": "面对跨世纪的戏曲文化，应保持什么样的态度？（）",
+    "options": [
+      "乐观",
+      "爱护",
+      "兼容",
+      "奋斗"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C#D",
+    "source": "bank4",
+    "bankName": "戏曲鉴赏",
+    "time": "2026/11/6 00:19:40"
+  },
+  "戏曲形式美所体现的内容具有一定的不确定性不会因为内容的变化而失掉了它审美的意义": {
+    "question": "戏曲形式美所体现的内容,具有一定的不确定性,不会因为内容的变化而失掉了它审美的意义。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 00:19:45",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "未来的中国戏曲既保留戏曲的总体特征又是多分支的艺术": {
+    "question": "未来的中国戏曲既保留戏曲的总体特征,又是多分支的艺术。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 00:19:48",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  }
+}

@@ -1,0 +1,3023 @@
+{
+  "语音助手将用户语音指令转换为行动的过程中，实现“从声音转为文字”的技术是？（）": {
+    "question": "语音助手将用户语音指令转换为行动的过程中，实现“从声音转为文字”的技术是？（）",
+    "options": [
+      "自然语言理解（NLU）",
+      "语音识别（ASR）",
+      "语音合成（TTS）",
+      "对话状态管理"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "手机拍照美颜功能中，用于定位眼睛、鼻梁、嘴角等位置的核心技术是？（）": {
+    "question": "手机拍照美颜功能中，用于定位眼睛、鼻梁、嘴角等位置的核心技术是？（）",
+    "options": [
+      "场景识别",
+      "物体识别",
+      "人脸关键点检测",
+      "协同过滤"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "手机中的大语言模型只能通过文字与用户交互，无法处理语音或图像信息。（）": {
+    "question": "手机中的大语言模型只能通过文字与用户交互，无法处理语音或图像信息。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "根据国际标准，自动驾驶技术分为L0到L5共几个等级？（）": {
+    "question": "根据国际标准，自动驾驶技术分为L0到L5共几个等级？（）",
+    "options": [
+      "3个",
+      "4个",
+      "5个",
+      "6个"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "以下关于L4级自动驾驶的描述，正确的是？（）": {
+    "question": "以下关于L4级自动驾驶的描述，正确的是？（）",
+    "options": [
+      "完全依赖人类驾驶员",
+      "在限定条件下可完全自主驾驶，无需人为干预",
+      "仅能辅助控制转向或加减速中的一项",
+      "需要人类驾驶员随时接管"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "自动驾驶技术面临的挑战包括以下哪些？（）": {
+    "question": "自动驾驶技术面临的挑战包括以下哪些？（）",
+    "options": [
+      "复杂场景处理",
+      "安全保障",
+      "道德伦理问题",
+      "硬件成本过高"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "图灵测试的核心思想是通过什么方式判断机器是否具有智能？（）": {
+    "question": "图灵测试的核心思想是通过什么方式判断机器是否具有智能？（）",
+    "options": [
+      "检测机器的内在思维机制",
+      "观察机器的行为表现是否与人类相似",
+      "验证机器是否能进行符号理解",
+      "测试机器的学习能力"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "中文屋论证主要挑战了人工智能中的哪种观点？（）": {
+    "question": "中文屋论证主要挑战了人工智能中的哪种观点？（）",
+    "options": [
+      "行为主义智能观",
+      "实用主义智能观",
+      "意识主义智能观",
+      "学习主义智能观"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "人工智能的实用价值体现在哪些方面？（）": {
+    "question": "人工智能的实用价值体现在哪些方面？（）",
+    "options": [
+      "作为技术工具增强人类信息处理能力",
+      "作为效率助手提高工作生活效率",
+      "作为创新伙伴启发人类创造性活动",
+      "解决所有哲学层面的智能本质问题"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "人工智能第三次热潮的核心驱动力不包括以下哪一项？（）": {
+    "question": "人工智能第三次热潮的核心驱动力不包括以下哪一项？（）",
+    "options": [
+      "大数据技术的兴起",
+      "GPU并行计算能力的提升",
+      "知识工程技术的突破",
+      "深度学习算法的进步"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "以下哪些属于人工智能第三次热潮的典型应用领域？（）": {
+    "question": "以下哪些属于人工智能第三次热潮的典型应用领域？（）",
+    "options": [
+      "图像识别",
+      "机器翻译",
+      "围棋AI",
+      "专家系统"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "人工智能的发展历程是一帆风顺的，没有经历过低谷期。（）": {
+    "question": "人工智能的发展历程是一帆风顺的，没有经历过低谷期。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "1997年IBM的深蓝系统击败国际象棋世界冠军卡斯帕罗夫，其核心技术不包括以下哪项？（）": {
+    "question": "1997年IBM的深蓝系统击败国际象棋世界冠军卡斯帕罗夫，其核心技术不包括以下哪项？（）",
+    "options": [
+      "暴力搜索算法",
+      "阿尔法贝塔剪枝技术",
+      "深度学习神经网络",
+      "专用并行计算芯片"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "关于ChatGPT的描述，正确的有哪些？（）": {
+    "question": "关于ChatGPT的描述，正确的有哪些？（）",
+    "options": [
+      "基于Transformer架构的深度神经网络",
+      "通过强化学习优化对话质量",
+      "发布后两个月内活跃用户超1亿",
+      "采用开源开放的政策供公众下载使用"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "DeepSeek作为中国国产AI模型，采用开源开放政策，允许公众自由下载使用其模型。（）": {
+    "question": "DeepSeek作为中国国产AI模型，采用开源开放政策，允许公众自由下载使用其模型。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "人工智能的四大核心能力不包括以下哪一项？（）": {
+    "question": "人工智能的四大核心能力不包括以下哪一项？（）",
+    "options": [
+      "感知能力",
+      "学习能力",
+      "判断能力",
+      "存储能力"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "关于人工智能和机器人的区别，下列说法正确的是？（）": {
+    "question": "关于人工智能和机器人的区别，下列说法正确的是？（）",
+    "options": [
+      "人工智能就是机器人",
+      "人工智能是软件系统，机器人是物理载体",
+      "机器人不具备人工智能",
+      "人工智能必须依赖机器人才能工作"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "人工智能生成能力的典型应用包括以下哪些？（）": {
+    "question": "人工智能生成能力的典型应用包括以下哪些？（）",
+    "options": [
+      "文本生成（如写诗、写报告）",
+      "图像生成（如文生图、图像修复）",
+      "音频生成（如音乐创作）",
+      "机械臂组装"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "推动人工智能发展的三个核心要素不包括以下哪一项？（）": {
+    "question": "推动人工智能发展的三个核心要素不包括以下哪一项？（）",
+    "options": [
+      "算法",
+      "算力",
+      "数据",
+      "资金"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "以下哪种算法不属于现代人工智能算法的主要类型？（）": {
+    "question": "以下哪种算法不属于现代人工智能算法的主要类型？（）",
+    "options": [
+      "机器学习算法",
+      "深度学习算法",
+      "强化学习算法",
+      "符号推理算法"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "人工智能算力发展经历了哪些主要阶段？（）": {
+    "question": "人工智能算力发展经历了哪些主要阶段？（）",
+    "options": [
+      "CPU时代",
+      "GPU时代",
+      "专用AI芯片时代",
+      "量子计算时代"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "算法的核心特点不包括以下哪一项？（）": {
+    "question": "算法的核心特点不包括以下哪一项？（）",
+    "options": [
+      "步骤明确",
+      "结果可重复",
+      "过程不可验证",
+      "逻辑基础清晰"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "传统算法在人工智能中的作用包括以下哪些？（）": {
+    "question": "传统算法在人工智能中的作用包括以下哪些？（）",
+    "options": [
+      "提供逻辑基础",
+      "保证数据处理高效性",
+      "支撑复杂决策可靠性",
+      "替代所有智能决策过程"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "二分查找不需要数据预先排序即可直接使用。（）": {
+    "question": "二分查找不需要数据预先排序即可直接使用。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/23 10:45:00",
+    "tokens": {
+      "input": 1,
+      "output": 1,
+      "total": 2
+    }
+  },
+  "以下哪种推理策略是从事实出发推导结论类似于人类思考过程": {
+    "question": "以下哪种推理策略是从事实出发推导结论，类似于人类思考过程？（）",
+    "options": [
+      "反向链推理",
+      "正向链推理",
+      "目标驱动推理",
+      "假设验证推理"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/18 23:03:56",
+    "tokens": {
+      "input": 105,
+      "output": 1,
+      "total": 106
+    }
+  },
+  "第一代人工智能系统专家系统的核心架构由哪两部分组成": {
+    "question": "第一代人工智能系统专家系统的核心架构由哪两部分组成？（）",
+    "options": [
+      "知识库和推理机",
+      "用户界面和解释器",
+      "知识编辑器和推理机",
+      "知识库和用户界面"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/18 23:04:00",
+    "tokens": {
+      "input": 111,
+      "output": 1,
+      "total": 112
+    }
+  },
+  "专家系统中的知识主要以如果-那么if-then的规则形式存储": {
+    "question": "专家系统中的知识主要以“如果-那么”（if-then）的规则形式存储。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/18 23:04:04",
+    "tokens": {
+      "input": 90,
+      "output": 1,
+      "total": 91
+    }
+  },
+  "规则推理技术的核心特征不包括以下哪一项": {
+    "question": "规则推理技术的核心特征不包括以下哪一项？（）",
+    "options": [
+      "规则明确、逻辑严密",
+      "推理过程可追溯",
+      "依赖大量训练数据",
+      "结果具有确定性"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/18 23:24:15",
+    "tokens": {
+      "input": 104,
+      "output": 1,
+      "total": 105
+    }
+  },
+  "规则推理技术的局限性包括哪些": {
+    "question": "规则推理技术的局限性包括哪些？（）",
+    "options": [
+      "知识维护成本高",
+      "处理模糊概念困难",
+      "规则冲突难以解决",
+      "无法处理结构化知识"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/18 23:24:19",
+    "tokens": {
+      "input": 109,
+      "output": 5,
+      "total": 114
+    }
+  },
+  "规则推理技术和机器学习技术是完全对立的无法融合应用": {
+    "question": "规则推理技术和机器学习技术是完全对立的，无法融合应用。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/18 23:24:23",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "以下哪种搜索算法适用于需要找到最短路径的问题": {
+    "question": "以下哪种搜索算法适用于需要找到最短路径的问题？（）",
+    "options": [
+      "深度优先搜索（DFS）",
+      "广度优先搜索（BFS）",
+      "蒙特卡洛树搜索（MCTS）",
+      "随机搜索"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/18 23:47:39",
+    "tokens": {
+      "input": 110,
+      "output": 1,
+      "total": 111
+    }
+  },
+  "以下哪种搜索算法的核心思想是优先深入探索每一个分支直到无法继续再回溯": {
+    "question": "以下哪种搜索算法的核心思想是优先深入探索每一个分支，直到无法继续再回溯？（）",
+    "options": [
+      "广度优先搜索（BFS）",
+      "深度优先搜索（DFS）",
+      "A*搜索算法",
+      "蒙特卡洛树搜索（MCTS）"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/18 23:47:43",
+    "tokens": {
+      "input": 120,
+      "output": 1,
+      "total": 121
+    }
+  },
+  "深度优先搜索dfs的内存占用比广度优先搜索bfs大": {
+    "question": "深度优先搜索（DFS）的内存占用比广度优先搜索（BFS）大。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/18 23:47:47",
+    "tokens": {
+      "input": 90,
+      "output": 1,
+      "total": 91
+    }
+  },
+  "博弈树的根节点表示什么": {
+    "question": "博弈树的根节点表示什么？（）",
+    "options": [
+      "游戏结束的棋局状态",
+      "当前的棋局状态",
+      "对手刚刚走完的棋局状态",
+      "游戏平局的棋局状态"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 00:06:33",
+    "tokens": {
+      "input": 109,
+      "output": 1,
+      "total": 110
+    }
+  },
+  "在极小极大算法中轮到对手走棋时会选择哪种估值的走法": {
+    "question": "在极小极大算法中，轮到对手走棋时，会选择哪种估值的走法？（）",
+    "options": [
+      "估值最大的走法",
+      "估值最小的走法",
+      "估值为0的走法",
+      "随机选择一种走法"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 00:06:37",
+    "tokens": {
+      "input": 116,
+      "output": 1,
+      "total": 117
+    }
+  },
+  "博弈树技术适用于以下哪些类型的游戏": {
+    "question": "博弈树技术适用于以下哪些类型的游戏？（）",
+    "options": [
+      "规则明确的回合制零和博弈",
+      "信息完全公开的游戏",
+      "状态转移确定的游戏",
+      "存在随机因素的游戏"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 00:06:40",
+    "tokens": {
+      "input": 114,
+      "output": 5,
+      "total": 119
+    }
+  },
+  "ibm深蓝国际象棋ai的基础算法是基于什么搜索算法和优化技术": {
+    "question": "IBM深蓝国际象棋AI的基础算法是基于什么搜索算法和优化技术？（）",
+    "options": [
+      "广度优先搜索+动态规划",
+      "博弈树搜索+阿尔法贝塔剪枝",
+      "深度优先搜索+蒙特卡洛树搜索",
+      "A*搜索+强化学习"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 00:21:37",
+    "tokens": {
+      "input": 124,
+      "output": 1,
+      "total": 125
+    }
+  },
+  "alphago围棋ai的主要技术创新不包括以下哪项": {
+    "question": "AlphaGo围棋AI的主要技术创新不包括以下哪项？（）",
+    "options": [
+      "深度学习神经网络",
+      "蒙特卡洛树搜索",
+      "暴力穷举所有可能棋局",
+      "自我对弈强化学习"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 00:21:40",
+    "tokens": {
+      "input": 108,
+      "output": 1,
+      "total": 109
+    }
+  },
+  "从深蓝到alphago的技术转变表明ai已从依赖人类专家知识转向自主学习和创新": {
+    "question": "从深蓝到AlphaGo的技术转变表明，AI已从依赖人类专家知识转向自主学习和创新。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 00:21:44",
+    "tokens": {
+      "input": 94,
+      "output": 1,
+      "total": 95
+    }
+  },
+  "搜索算法的技术优势不包括以下哪一项": {
+    "question": "搜索算法的技术优势不包括以下哪一项？（）",
+    "options": [
+      "确定性和最优性保障",
+      "需要大量训练数据",
+      "完全可解释",
+      "通用性强"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 00:35:40",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "下列哪个场景不适合使用搜索算法": {
+    "question": "下列哪个场景不适合使用搜索算法？（）",
+    "options": [
+      "国际象棋游戏",
+      "地图导航最短路径计算",
+      "诗歌创作",
+      "生产计划最优安排"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 00:35:44",
+    "tokens": {
+      "input": 100,
+      "output": 1,
+      "total": 101
+    }
+  },
+  "组合爆炸是指问题规模增长时状态数量呈指数级膨胀会导致搜索算法难以在合理时间内求解": {
+    "question": "组合爆炸是指问题规模增长时状态数量呈指数级膨胀，会导致搜索算法难以在合理时间内求解。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 00:35:48",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "监督学习的核心思想是什么": {
+    "question": "监督学习的核心思想是什么？（）",
+    "options": [
+      "让机器自动探索数据中的规律，无需人工干预",
+      "通过已知的答案（标注数据）训练模型，预测输出标签",
+      "仅使用未标注数据进行模型训练",
+      "直接使用人类设计的固定算法解决问题"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 19:49:58",
+    "tokens": {
+      "input": 123,
+      "output": 1,
+      "total": 124
+    }
+  },
+  "用于量化预测误差的指标是什么": {
+    "question": "用于量化预测误差的指标是什么？（）",
+    "options": [
+      "梯度下降",
+      "损失函数",
+      "训练集",
+      "验证集"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 19:50:02",
+    "tokens": {
+      "input": 94,
+      "output": 1,
+      "total": 95
+    }
+  },
+  "以下哪些是导致过拟合的原因": {
+    "question": "以下哪些是导致过拟合的原因？（）",
+    "options": [
+      "模型过于复杂",
+      "训练数据不够多样化",
+      "训练时间过长",
+      "使用了验证集"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 19:50:05",
+    "tokens": {
+      "input": 107,
+      "output": 5,
+      "total": 112
+    }
+  },
+  "分类任务的核心目标是": {
+    "question": "分类任务的核心目标是？（）",
+    "options": [
+      "预测连续数值",
+      "将对象划分到预定义类别",
+      "生成新的数据样本",
+      "发现数据中的隐藏模式"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 20:06:04",
+    "tokens": {
+      "input": 102,
+      "output": 1,
+      "total": 103
+    }
+  },
+  "的基于概率统计的分类算法是": {
+    "question": "的基于概率统计的分类算法是？（）",
+    "options": [
+      "K最近邻（KNN）",
+      "支持向量机（SVM）",
+      "朴素贝叶斯",
+      "决策树"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 20:06:08",
+    "tokens": {
+      "input": 103,
+      "output": 1,
+      "total": 104
+    }
+  },
+  "垃圾邮件过滤是一个基于文本特征的二分类问题": {
+    "question": "垃圾邮件过滤是一个基于文本特征的二分类问题。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 20:06:11",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "回归预测的核心任务是什么": {
+    "question": "回归预测的核心任务是什么？（）",
+    "options": [
+      "预测离散的类别标签",
+      "预测连续的数值",
+      "识别数据中的异常值",
+      "分析数据间的因果关系"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 20:23:42",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "在线性回归模型中模型的基本形式不包括以下哪个部分": {
+    "question": "在线性回归模型中，模型的基本形式不包括以下哪个部分？（）",
+    "options": [
+      "特征与系数的乘积和",
+      "基础偏置项",
+      "特征的非线性变换",
+      "特征的加权组合"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 20:23:46",
+    "tokens": {
+      "input": 108,
+      "output": 1,
+      "total": 109
+    }
+  },
+  "相关性等于因果性例如冰淇淋销量增加导致溺水事件增多": {
+    "question": "相关性等于因果性，例如冰淇淋销量增加导致溺水事件增多。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 20:23:50",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "k-means聚类算法的优化目标是最小化以下哪项": {
+    "question": "K-Means聚类算法的优化目标是最小化以下哪项？（）",
+    "options": [
+      "簇间距离之和",
+      "误差平方和",
+      "簇的数量",
+      "样本数量"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 20:39:46",
+    "tokens": {
+      "input": 103,
+      "output": 1,
+      "total": 104
+    }
+  },
+  "无监督学习的核心特点是训练数据没有以下哪项": {
+    "question": "无监督学习的核心特点是训练数据没有以下哪项？（）",
+    "options": [
+      "特征值",
+      "正确答案的标签",
+      "输入数据",
+      "输出结果"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 20:39:49",
+    "tokens": {
+      "input": 99,
+      "output": 1,
+      "total": 100
+    }
+  },
+  "以下属于dbscan算法优势的有哪些": {
+    "question": "以下属于DBSCAN算法优势的有哪些？（）",
+    "options": [
+      "能够发现任意形状的聚类",
+      "能够自动识别处理噪声点",
+      "需要预先指定聚类数量",
+      "计算效率极高"
+    ],
+    "type": "multiple",
+    "answer": "A#B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 20:39:53",
+    "tokens": {
+      "input": 116,
+      "output": 3,
+      "total": 119
+    }
+  },
+  "在拼图游戏的例子中遗传算法的适应度函数主要通过什么方式计算": {
+    "question": "在拼图游戏的例子中，遗传算法的适应度函数主要通过什么方式计算？（）",
+    "options": [
+      "三角形数量统计",
+      "像素差异对比",
+      "三角形形状匹配",
+      "颜色种类计数"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 20:56:11",
+    "tokens": {
+      "input": 107,
+      "output": 1,
+      "total": 108
+    }
+  },
+  "以下关于遗传算法的说法正确的有哪些": {
+    "question": "以下关于遗传算法的说法，正确的有哪些？（）",
+    "options": [
+      "初始种群通常随机生成",
+      "不需要梯度信息",
+      "一定能找到全局最优解",
+      "变异概率通常较低"
+    ],
+    "type": "multiple",
+    "answer": "A#B#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 20:56:15",
+    "tokens": {
+      "input": 112,
+      "output": 5,
+      "total": 117
+    }
+  },
+  "遗传算法中的选择操作会完全淘汰适应度低的个体只保留适应度最高的个体": {
+    "question": "遗传算法中的选择操作会完全淘汰适应度低的个体，只保留适应度最高的个体。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 20:56:19",
+    "tokens": {
+      "input": 92,
+      "output": 1,
+      "total": 93
+    }
+  },
+  "人工神经元模型中将输入信号加权求和后进行非线性转换的函数被称为": {
+    "question": "人工神经元模型中，将输入信号加权求和后进行非线性转换的函数被称为？（）",
+    "options": [
+      "损失函数",
+      "激活函数",
+      "优化函数",
+      "卷积函数"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 21:14:49",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "深度学习的灵感主要来源于以下哪个自然结构": {
+    "question": "深度学习的灵感主要来源于以下哪个自然结构？（）",
+    "options": [
+      "昆虫的复眼结构",
+      "人脑的神经网络结构",
+      "鸟类的骨骼结构",
+      "植物的光合作用机制"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 21:14:53",
+    "tokens": {
+      "input": 106,
+      "output": 1,
+      "total": 107
+    }
+  },
+  "深度学习相比传统机器学习需要人工设计更多的特征工程": {
+    "question": "深度学习相比传统机器学习，需要人工设计更多的特征工程。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 21:14:56",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "强化学习的核心特点不包括以下哪一项": {
+    "question": "强化学习的核心特点不包括以下哪一项？（）",
+    "options": [
+      "不需要标注数据",
+      "通过与环境交互学习",
+      "依赖大量人工标注的标准答案",
+      "通过试错调整策略"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 21:33:15",
+    "tokens": {
+      "input": 105,
+      "output": 1,
+      "total": 106
+    }
+  },
+  "q-learning算法中q值的含义是": {
+    "question": "Q-Learning算法中Q值的含义是？（）",
+    "options": [
+      "状态的转移概率",
+      "在某一状态下执行某一动作的期望回报",
+      "环境对动作的即时奖励",
+      "智能体的当前状态值"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 21:33:19",
+    "tokens": {
+      "input": 111,
+      "output": 1,
+      "total": 112
+    }
+  },
+  "以下哪些属于强化学习的典型应用领域": {
+    "question": "以下哪些属于强化学习的典型应用领域？（）",
+    "options": [
+      "游戏AI（如FlappyBird、围棋）",
+      "机器人控制（如人形机器人步行）",
+      "金融量化交易策略优化",
+      "静态图像分类"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 21:33:22",
+    "tokens": {
+      "input": 120,
+      "output": 5,
+      "total": 125
+    }
+  },
+  "手写数字识别任务中使用的标准数据集是以下哪一个": {
+    "question": "手写数字识别任务中使用的标准数据集是以下哪一个？（）",
+    "options": [
+      "CIFAR-10",
+      "MNIST",
+      "ImageNet",
+      "COCO"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 21:50:57",
+    "tokens": {
+      "input": 98,
+      "output": 1,
+      "total": 99
+    }
+  },
+  "为解决全连接神经网络处理图像时参数量过大和丢失空间结构的问题提出的模型是": {
+    "question": "为解决全连接神经网络处理图像时参数量过大和丢失空间结构的问题，提出的模型是？（）",
+    "options": [
+      "循环神经网络",
+      "卷积神经网络",
+      "决策树",
+      "支持向量机"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 21:51:01",
+    "tokens": {
+      "input": 107,
+      "output": 1,
+      "total": 108
+    }
+  },
+  "全连接神经网络处理手写数字识别任务时输入层神经元数量为784个对应28×28像素": {
+    "question": "全连接神经网络处理手写数字识别任务时，输入层神经元数量为784个（对应28×28像素）。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 21:51:05",
+    "tokens": {
+      "input": 98,
+      "output": 1,
+      "total": 99
+    }
+  },
+  "传统安防监控系统的主要局限性不包括以下哪一项": {
+    "question": "传统安防监控系统的主要局限性不包括以下哪一项？（）",
+    "options": [
+      "仅具备视频录制和存储功能",
+      "依赖人工实时观察和监控",
+      "可主动识别可疑情况并自动预警",
+      "事后倒查时难以快速检索海量视频"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 22:05:41",
+    "tokens": {
+      "input": 121,
+      "output": 1,
+      "total": 122
+    }
+  },
+  "安防监控中人脸识别技术的第一步是": {
+    "question": "安防监控中人脸识别技术的第一步是？（）",
+    "options": [
+      "提取人脸特征生成特征向量",
+      "在复杂背景中定位人脸",
+      "进行身份验证与相似度计算",
+      "分析人脸的骨骼点信息"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 22:05:44",
+    "tokens": {
+      "input": 113,
+      "output": 1,
+      "total": 114
+    }
+  },
+  "边缘计算在智能监控中的应用可以减少网络传输负载和云端计算成本": {
+    "question": "边缘计算在智能监控中的应用可以减少网络传输负载和云端计算成本。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 22:05:48",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "以下哪个传感器的优势不包括精确测距": {
+    "question": "以下哪个传感器的优势不包括精确测距？（）",
+    "options": [
+      "激光雷达",
+      "摄像头",
+      "毫米波雷达",
+      "超声波雷达"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 22:20:21",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "自动驾驶视觉感知需要达到的精确性要求是": {
+    "question": "自动驾驶视觉感知需要达到的精确性要求是？（）",
+    "options": [
+      "毫米级定位",
+      "厘米级定位",
+      "分米级定位",
+      "米级定位"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 22:20:25",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "自动驾驶多传感器融合的目的包括以下哪些": {
+    "question": "自动驾驶多传感器融合的目的包括以下哪些？（）",
+    "options": [
+      "优势互补",
+      "形成冗余保障",
+      "降低硬件成本",
+      "减少数据处理量"
+    ],
+    "type": "multiple",
+    "answer": "A#B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 22:20:29",
+    "tokens": {
+      "input": 106,
+      "output": 3,
+      "total": 109
+    }
+  },
+  "以下哪项不属于语音信号预处理的技术": {
+    "question": "以下哪项不属于语音信号预处理的技术？（）",
+    "options": [
+      "语音降噪",
+      "声源分离",
+      "意图识别",
+      "语音活动检测"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 22:34:27",
+    "tokens": {
+      "input": 98,
+      "output": 1,
+      "total": 99
+    }
+  },
+  "语音助手技术流程中将语音波形转换为文字的环节是以下哪一个": {
+    "question": "语音助手技术流程中，将语音波形转换为文字的环节是以下哪一个？（）",
+    "options": [
+      "自然语言理解（NLU）",
+      "自动语音识别（ASR）",
+      "语音合成（TTS）",
+      "对话管理"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 22:34:31",
+    "tokens": {
+      "input": 113,
+      "output": 1,
+      "total": 114
+    }
+  },
+  "语音唤醒功能为了实现低功耗检测通常在设备后台运行小模型": {
+    "question": "语音唤醒功能为了实现低功耗检测，通常在设备后台运行小模型。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 22:34:35",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "早期机器翻译尝试中词对词替换的核心思路是建立什么工具": {
+    "question": "早期机器翻译尝试中，词对词替换的核心思路是建立什么工具？（）",
+    "options": [
+      "双语词典",
+      "语法规则库",
+      "平行语料库",
+      "神经网络模型"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 22:48:20",
+    "tokens": {
+      "input": 106,
+      "output": 1,
+      "total": 107
+    }
+  },
+  "统计机器翻译完全依赖语法规则进行翻译": {
+    "question": "统计机器翻译完全依赖语法规则进行翻译。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 22:48:24",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "现代机器翻译仍面临的挑战包括以下哪些": {
+    "question": "现代机器翻译仍面临的挑战包括以下哪些？（）",
+    "options": [
+      "低资源语言翻译效果差",
+      "专业领域术语翻译准确性不足",
+      "文化背景和语言风格的保持困难",
+      "常用语言翻译完全不可用"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 22:48:28",
+    "tokens": {
+      "input": 121,
+      "output": 5,
+      "total": 126
+    }
+  },
+  "以下哪种自动摘要技术需要对原文内容进行理解后重新表达": {
+    "question": "以下哪种自动摘要技术需要对原文内容进行理解后重新表达？（）",
+    "options": [
+      "抽取式摘要",
+      "生成式摘要",
+      "关键词提取",
+      "情感分析"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 23:02:01",
+    "tokens": {
+      "input": 102,
+      "output": 1,
+      "total": 103
+    }
+  },
+  "舆情监测对政府的主要应用价值是": {
+    "question": "舆情监测对政府的主要应用价值是？（）",
+    "options": [
+      "了解品牌声誉和产品反馈",
+      "掌握政策响应和民意动向",
+      "发现社会热点话题和舆论趋势",
+      "提升学术研究效率"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 23:02:05",
+    "tokens": {
+      "input": 110,
+      "output": 1,
+      "total": 111
+    }
+  },
+  "舆情监测的完整流程只包括数据采集和情感分析两个步骤": {
+    "question": "舆情监测的完整流程只包括数据采集和情感分析两个步骤。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 23:02:09",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "社交媒体内容推荐的核心商业价值目标是什么": {
+    "question": "社交媒体内容推荐的核心商业价值目标是什么？（）",
+    "options": [
+      "最大化用户点击广告的次数",
+      "最大化用户在平台的停留时长",
+      "最大化内容创作者的收益",
+      "最大化用户发布内容的数量"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 23:20:17",
+    "tokens": {
+      "input": 107,
+      "output": 1,
+      "total": 108
+    }
+  },
+  "以下哪个平台更注重视频的完播率作为核心指标": {
+    "question": "以下哪个平台更注重视频的完播率作为核心指标？（）",
+    "options": [
+      "微博",
+      "小红书",
+      "抖音",
+      "微信朋友圈"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 23:20:20",
+    "tokens": {
+      "input": 97,
+      "output": 1,
+      "total": 98
+    }
+  },
+  "社交媒体内容推荐中的多模态内容理解包括以下哪些方面": {
+    "question": "社交媒体内容推荐中的多模态内容理解包括以下哪些方面？（）",
+    "options": [
+      "文本的主题分类和情感倾向分析",
+      "图像中的物体识别和场景分析",
+      "音频的背景音乐风格分析和语音转文字",
+      "用户地理位置信息的实时追踪"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 23:20:24",
+    "tokens": {
+      "input": 126,
+      "output": 5,
+      "total": 131
+    }
+  },
+  "生成对抗网络gan主要包含以下哪两个模块": {
+    "question": "生成对抗网络(GAN)主要包含以下哪两个模块？（）",
+    "options": [
+      "生成器和判别器",
+      "编码器和解码器",
+      "卷积层和池化层",
+      "注意力层和全连接层"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 23:39:43",
+    "tokens": {
+      "input": 111,
+      "output": 1,
+      "total": 112
+    }
+  },
+  "生成式人工智能可以应用于以下哪些领域": {
+    "question": "生成式人工智能可以应用于以下哪些领域？（）",
+    "options": [
+      "文本创作（如小说、新闻）",
+      "图像生成（如艺术插画、产品原型）",
+      "音频生成（如背景音乐、广告配音）",
+      "目标检测（如识别图片中的猫和狗）"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 23:39:47",
+    "tokens": {
+      "input": 132,
+      "output": 5,
+      "total": 137
+    }
+  },
+  "生成式人工智能的幻觉现象是指其生成内容完全随机且无法理解": {
+    "question": "生成式人工智能的“幻觉现象”是指其生成内容完全随机且无法理解。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 23:39:50",
+    "tokens": {
+      "input": 90,
+      "output": 1,
+      "total": 91
+    }
+  },
+  "现代语言模型生成文本的基础机制是什么": {
+    "question": "现代语言模型生成文本的基础机制是什么？（）",
+    "options": [
+      "一次性生成完整文本",
+      "逐词生成，根据前文预测下一个最可能的词",
+      "完全随机生成词汇",
+      "仅依赖人工设定的规则"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 23:54:53",
+    "tokens": {
+      "input": 112,
+      "output": 1,
+      "total": 113
+    }
+  },
+  "文本生成技术在神经网络深度学习时代的主要特点是什么": {
+    "question": "文本生成技术在神经网络深度学习时代的主要特点是什么？（）",
+    "options": [
+      "基于固定模板填空生成文本",
+      "基于词汇共现概率进行简单句子续写",
+      "深度理解上下文，生成连贯长文本并模仿多样写作风格",
+      "仅能生成结构化的数据报表"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 23:54:57",
+    "tokens": {
+      "input": 124,
+      "output": 1,
+      "total": 125
+    }
+  },
+  "ai生成的文本完全可靠不需要人工审核": {
+    "question": "AI生成的文本完全可靠，不需要人工审核。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/19 23:55:01",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "ai图像生成技术可以根据人的什么描述来生成相应的图像": {
+    "question": "AI图像生成技术可以根据人的什么描述来生成相应的图像？（）",
+    "options": [
+      "文字描述",
+      "手势动作",
+      "语音指令",
+      "表情神态"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/20 00:18:05",
+    "tokens": {
+      "input": 99,
+      "output": 1,
+      "total": 100
+    }
+  },
+  "以下哪些属于ai图像生成在设计行业的应用场景": {
+    "question": "以下哪些属于AI图像生成在设计行业的应用场景？（）",
+    "options": [
+      "广告海报制作",
+      "产品包装设计",
+      "建筑效果图生成",
+      "天气预报预测"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/20 00:18:09",
+    "tokens": {
+      "input": 109,
+      "output": 5,
+      "total": 114
+    }
+  },
+  "ai图像生成技术提高了视觉作品的创作门槛": {
+    "question": "AI图像生成技术提高了视觉作品的创作门槛。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/20 00:18:12",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "现代语音合成技术流程中从文字到声波转换的第一个阶段是": {
+    "question": "现代语音合成技术流程中，从文字到声波转换的第一个阶段是？（）",
+    "options": [
+      "声学建模",
+      "波形合成",
+      "文本分析",
+      "韵律生成"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/20 00:32:59",
+    "tokens": {
+      "input": 104,
+      "output": 1,
+      "total": 105
+    }
+  },
+  "ai音频生成质量的客观评价指标包括哪些": {
+    "question": "AI音频生成质量的客观评价指标包括哪些？（）",
+    "options": [
+      "音频保真度",
+      "听众满意度",
+      "语音自然度",
+      "音乐和谐度"
+    ],
+    "type": "multiple",
+    "answer": "A#C#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/20 00:33:03",
+    "tokens": {
+      "input": 108,
+      "output": 5,
+      "total": 113
+    }
+  },
+  "声音克隆技术需要提取个人发音特征和讲话习惯来建立个性化语音模型": {
+    "question": "声音克隆技术需要提取个人发音特征和讲话习惯来建立个性化语音模型。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/20 00:33:07",
+    "tokens": {
+      "input": 89,
+      "output": 1,
+      "total": 90
+    }
+  },
+  "ai视频生成技术的核心挑战是以下哪一项": {
+    "question": "AI视频生成技术的核心挑战是以下哪一项？（）",
+    "options": [
+      "静态图像生成的质量提升",
+      "音频与视频的同步问题",
+      "时空一致性的控制",
+      "文本描述的准确性"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 18:03:08",
+    "tokens": {
+      "input": 107,
+      "output": 1,
+      "total": 108
+    }
+  },
+  "以下哪一项不是ai辅助动画制作的技术优势": {
+    "question": "以下哪一项不是AI辅助动画制作的技术优势？（）",
+    "options": [
+      "大幅缩短制作周期",
+      "降低技术门槛",
+      "完全替代人工创作",
+      "支持快速迭代修改"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 18:03:12",
+    "tokens": {
+      "input": 104,
+      "output": 1,
+      "total": 105
+    }
+  },
+  "ai视频生成技术可能导致深度伪造视频引发身份盗用虚假信息传播等风险": {
+    "question": "AI视频生成技术可能导致深度伪造视频，引发身份盗用、虚假信息传播等风险。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 18:03:15",
+    "tokens": {
+      "input": 92,
+      "output": 1,
+      "total": 93
+    }
+  },
+  "大语言模型是基于什么训练的深度神经网络系统": {
+    "question": "大语言模型是基于什么训练的深度神经网络系统？（）",
+    "options": [
+      "少量文本数据",
+      "海量文本数据",
+      "图像数据",
+      "音频数据"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 18:19:21",
+    "tokens": {
+      "input": 99,
+      "output": 1,
+      "total": 100
+    }
+  },
+  "大语言模型参数规模的指数级增长带来了什么现象": {
+    "question": "大语言模型参数规模的指数级增长带来了什么现象？（）",
+    "options": [
+      "计算速度变慢",
+      "能力涌现",
+      "模型体积减小",
+      "训练成本降低"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 18:19:25",
+    "tokens": {
+      "input": 102,
+      "output": 1,
+      "total": 103
+    }
+  },
+  "大语言模型的多模态扩展仅能处理文本数据": {
+    "question": "大语言模型的多模态扩展仅能处理文本数据。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 18:19:29",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "大语言模型在文本创作方面不包括以下哪项能力": {
+    "question": "大语言模型在文本创作方面不包括以下哪项能力？（）",
+    "options": [
+      "语法正确、逻辑清晰的文本生成",
+      "实时获取物理世界的最新动态",
+      "调节文本风格，实现创意丰富的表达",
+      "对现有文本进行续写、改写或润色"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 18:35:59",
+    "tokens": {
+      "input": 123,
+      "output": 1,
+      "total": 124
+    }
+  },
+  "大语言模型在知识问答互动模式上的特点不包括以下哪项": {
+    "question": "大语言模型在知识问答互动模式上的特点不包括以下哪项？（）",
+    "options": [
+      "仅支持一问一答，无法进行追问或深入讨论",
+      "可以对模糊的问题补充细节，澄清歧义",
+      "能根据提示词设定适应不同知识背景的用户",
+      "可对答案进行结构化组织，使其通俗易懂"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 18:36:02",
+    "tokens": {
+      "input": 134,
+      "output": 1,
+      "total": 135
+    }
+  },
+  "大语言模型在编程方面可以提供哪些辅助功能": {
+    "question": "大语言模型在编程方面可以提供哪些辅助功能？（）",
+    "options": [
+      "根据自然语言描述生成不同编程语言的代码",
+      "帮助调试代码，找出其中的错误",
+      "为代码添加注释并生成归纳文档",
+      "直接操作物理硬件设备执行代码"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 18:36:06",
+    "tokens": {
+      "input": 128,
+      "output": 5,
+      "total": 133
+    }
+  },
+  "大语言模型的核心架构是以下哪一种": {
+    "question": "大语言模型的核心架构是以下哪一种？（）",
+    "options": [
+      "循环神经网络(RNN)",
+      "Transformer",
+      "卷积神经网络(CNN)",
+      "生成对抗网络(GAN)"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 18:56:44",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "大语言模型生成文本时采用的主要方式是": {
+    "question": "大语言模型生成文本时，采用的主要方式是？（）",
+    "options": [
+      "逐词生成",
+      "整句生成",
+      "随机生成",
+      "模板匹配"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 18:56:47",
+    "tokens": {
+      "input": 99,
+      "output": 1,
+      "total": 100
+    }
+  },
+  "大语言模型的温度参数越高生成结果越确定越接近事实": {
+    "question": "大语言模型的温度参数越高，生成结果越确定、越接近事实。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 18:56:51",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "ai教学助手在内容生成方面不包括以下哪项": {
+    "question": "AI教学助手在内容生成方面不包括以下哪项？（）",
+    "options": [
+      "自动生成教案草稿",
+      "设计针对性练习题",
+      "直接代替教师授课",
+      "创建多样化教学材料"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 23:03:31",
+    "tokens": {
+      "input": 106,
+      "output": 1,
+      "total": 107
+    }
+  },
+  "传统教学资源制作的痛点不包括以下哪项": {
+    "question": "传统教学资源制作的痛点不包括以下哪项？（）",
+    "options": [
+      "教案准备耗时短",
+      "练习题设计重复性高",
+      "个性化材料制作困难",
+      "题目难度梯度不易把控"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 23:03:34",
+    "tokens": {
+      "input": 106,
+      "output": 1,
+      "total": 107
+    }
+  },
+  "ai教学助手只能评阅客观题无法评阅主观题": {
+    "question": "AI教学助手只能评阅客观题，无法评阅主观题。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 23:03:38",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "以下哪种现象指的是通过整合碎片化数据构建完整个人画像的过程": {
+    "question": "以下哪种现象指的是通过整合碎片化数据构建完整个人画像的过程？（）",
+    "options": [
+      "跨平台追踪",
+      "拼图效应",
+      "算法偏见",
+      "黑箱决策"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 23:24:14",
+    "tokens": {
+      "input": 104,
+      "output": 1,
+      "total": 105
+    }
+  },
+  "算法偏见产生的主要技术成因是什么": {
+    "question": "算法偏见产生的主要技术成因是什么？（）",
+    "options": [
+      "开发者故意编写歧视性代码",
+      "训练数据反映了历史社会不平等现象",
+      "算法计算能力不足",
+      "用户操作失误"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 23:24:18",
+    "tokens": {
+      "input": 106,
+      "output": 1,
+      "total": 107
+    }
+  },
+  "以下哪些属于个人可采取的隐私防护措施": {
+    "question": "以下哪些属于个人可采取的隐私防护措施？（）",
+    "options": [
+      "定期检查应用权限设置",
+      "使用虚拟邮箱注册平台",
+      "随意授予应用不必要的权限",
+      "培养数据意识，谨慎授权"
+    ],
+    "type": "multiple",
+    "answer": "A#B#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 23:24:21",
+    "tokens": {
+      "input": 117,
+      "output": 5,
+      "total": 122
+    }
+  },
+  "深度伪造技术滥用会导致以下哪种社会现象": {
+    "question": "深度伪造技术滥用会导致以下哪种社会现象？（）",
+    "options": [
+      "信息传播速度减慢",
+      "社会信任基础动摇",
+      "公众对AI技术完全排斥",
+      "媒体行业全面消失"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 23:40:58",
+    "tokens": {
+      "input": 106,
+      "output": 1,
+      "total": 107
+    }
+  },
+  "深度伪造技术的技术基础不包括以下哪一项": {
+    "question": "深度伪造技术的技术基础不包括以下哪一项？（）",
+    "options": [
+      "生成式对抗网络",
+      "深度神经网络训练",
+      "区块链技术",
+      "大量真实音视频样本学习"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 23:41:02",
+    "tokens": {
+      "input": 103,
+      "output": 1,
+      "total": 104
+    }
+  },
+  "深度伪造技术的发展是从以假乱真到明显破绽的过程": {
+    "question": "深度伪造技术的发展是从以假乱真到明显破绽的过程。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/21 23:41:06",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "自动驾驶事故的责任链复杂可能涉及多个主体以下哪项不属于潜在责任主体": {
+    "question": "自动驾驶事故的责任链复杂，可能涉及多个主体，以下哪项不属于潜在责任主体？（）",
+    "options": [
+      "车辆制造商",
+      "软件开发者",
+      "数据提供方",
+      "道路两旁的树木所有者"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:01:41",
+    "tokens": {
+      "input": 109,
+      "output": 1,
+      "total": 110
+    }
+  },
+  "人在回路原则存在哪些实践困境": {
+    "question": "人在回路原则存在哪些实践困境？（）",
+    "options": [
+      "自动化偏见导致人类过度信任AI",
+      "责任转嫁风险，将技术错误归咎于人类决策者",
+      "人类无法理解AI的决策逻辑",
+      "AI会故意误导人类决策者"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:01:44",
+    "tokens": {
+      "input": 128,
+      "output": 5,
+      "total": 133
+    }
+  },
+  "ai审计必须由独立于开发方和使用方的第三方专业机构执行": {
+    "question": "AI审计必须由独立于开发方和使用方的第三方专业机构执行。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:01:48",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "ai主要替代的是以下哪种对象": {
+    "question": "AI主要替代的是以下哪种对象？（）",
+    "options": [
+      "整个职业",
+      "具体的任务",
+      "所有人类工作",
+      "高技能岗位"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:18:49",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "以下哪些属于人类在职业中的核心优势领域": {
+    "question": "以下哪些属于人类在职业中的核心优势领域？（）",
+    "options": [
+      "情感交流（如心理咨询）",
+      "重复性数据录入",
+      "创造性工作（如艺术设计）",
+      "规则明确的财务统计"
+    ],
+    "type": "multiple",
+    "answer": "A#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:18:53",
+    "tokens": {
+      "input": 116,
+      "output": 3,
+      "total": 119
+    }
+  },
+  "ai与人类在职业中的关系是零和博弈即机器赢则人类输反之亦然": {
+    "question": "AI与人类在职业中的关系是零和博弈，即机器赢则人类输，反之亦然。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:18:57",
+    "tokens": {
+      "input": 94,
+      "output": 1,
+      "total": 95
+    }
+  },
+  "ai在人机协作中主要负责的任务类型是": {
+    "question": "AI在人机协作中主要负责的任务类型是（）。",
+    "options": [
+      "创造性思维与价值判断",
+      "重复性、规则性的大数据处理",
+      "情感交流与心理安慰",
+      "战略性长远利益考量"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:36:21",
+    "tokens": {
+      "input": 108,
+      "output": 1,
+      "total": 109
+    }
+  },
+  "为了与ai进行有效沟通对ai指令的表达应具备的特点是": {
+    "question": "为了与AI进行有效沟通，对AI指令的表达应具备的特点是（）。",
+    "options": [
+      "模糊化、开放性",
+      "结构化、精确化",
+      "简短化、碎片化",
+      "情绪化、主观化"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:36:25",
+    "tokens": {
+      "input": 110,
+      "output": 1,
+      "total": 111
+    }
+  },
+  "人机协作的本质是机器替代人类完成所有工作": {
+    "question": "人机协作的本质是机器替代人类完成所有工作。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:36:29",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "扫地机器人通过哪种技术实现同时定位与地图构建": {
+    "question": "扫地机器人通过哪种技术实现同时定位与地图构建？（）",
+    "options": [
+      "SLAM算法",
+      "语音识别技术",
+      "情感识别技术",
+      "自然语言处理技术"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:39:10",
+    "tokens": {
+      "input": 102,
+      "output": 1,
+      "total": 103
+    }
+  },
+  "智能音箱的语音交互过程涉及哪些人工智能技术": {
+    "question": "智能音箱的语音交互过程涉及哪些人工智能技术？（）",
+    "options": [
+      "语音识别",
+      "语义理解",
+      "语音合成",
+      "路径规划"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:39:13",
+    "tokens": {
+      "input": 105,
+      "output": 5,
+      "total": 110
+    }
+  },
+  "智能家居设备为了提升智能化水平必须将所有敏感数据上传至云端处理": {
+    "question": "智能家居设备为了提升智能化水平，必须将所有敏感数据上传至云端处理。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:39:17",
+    "tokens": {
+      "input": 89,
+      "output": 1,
+      "total": 90
+    }
+  },
+  "以下哪个领域不属于规则推理专家系统的典型应用场景": {
+    "question": "以下哪个领域不属于规则推理专家系统的典型应用场景？（）",
+    "options": [
+      "医疗诊断辅助",
+      "法律咨询服务",
+      "图像识别",
+      "金融风控审批"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:39:55",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "在金融风控领域专家系统的应用价值体现在哪些方面": {
+    "question": "在金融风控领域，专家系统的应用价值体现在哪些方面？（）",
+    "options": [
+      "提高审批效率",
+      "规避人为主观因素影响",
+      "确保审批一致性",
+      "完全替代人工审批"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:39:58",
+    "tokens": {
+      "input": 116,
+      "output": 5,
+      "total": 121
+    }
+  },
+  "在医疗诊断辅助系统中专家系统可以直接给出最终诊断结果无需人类医师确认": {
+    "question": "在医疗诊断辅助系统中，专家系统可以直接给出最终诊断结果，无需人类医师确认。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:40:02",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "人工智能技术通过哪种神经网络解决了肺部ct中肺结节检测的难题": {
+    "question": "人工智能技术通过哪种神经网络解决了肺部CT中肺结节检测的难题？（）",
+    "options": [
+      "二维卷积神经网络",
+      "三维卷积神经网络",
+      "循环神经网络",
+      "生成对抗网络"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:40:31",
+    "tokens": {
+      "input": 104,
+      "output": 1,
+      "total": 105
+    }
+  },
+  "以下哪项不属于人工智能在医疗影像辅助诊断中的应用案例": {
+    "question": "以下哪项不属于人工智能在医疗影像辅助诊断中的应用案例？（）",
+    "options": [
+      "肺部CT扫描的肺结节检测",
+      "眼底疾病的早期筛查",
+      "皮肤癌的视觉识别检测",
+      "心电图的自动分析"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:40:34",
+    "tokens": {
+      "input": 113,
+      "output": 1,
+      "total": 114
+    }
+  },
+  "人工智能在医疗影像辅助诊断中的优势包括以下哪些": {
+    "question": "人工智能在医疗影像辅助诊断中的优势包括以下哪些？（）",
+    "options": [
+      "减轻医生工作负担，减少错诊漏诊",
+      "提高诊断的一致性，减少主观性差异",
+      "能够识别微小病灶，实现早期检测",
+      "完全替代医生进行诊断"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:40:38",
+    "tokens": {
+      "input": 129,
+      "output": 5,
+      "total": 134
+    }
+  },
+  "机器视觉质检系统的计算平台不包括以下哪项": {
+    "question": "机器视觉质检系统的计算平台不包括以下哪项？（）",
+    "options": [
+      "高性能图像处理器",
+      "实时操作系统",
+      "专业照明系统",
+      "边缘计算单元"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:41:17",
+    "tokens": {
+      "input": 100,
+      "output": 1,
+      "total": 101
+    }
+  },
+  "深度学习在制造业质检中的优势包括以下哪些": {
+    "question": "深度学习在制造业质检中的优势包括以下哪些？（）",
+    "options": [
+      "自动学习缺陷特征",
+      "适应性差，需重新编程应对新缺陷",
+      "强大的泛化能力，可发现新缺陷",
+      "需设计复杂规则"
+    ],
+    "type": "multiple",
+    "answer": "A#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:41:21",
+    "tokens": {
+      "input": 122,
+      "output": 3,
+      "total": 125
+    }
+  },
+  "机器视觉质检的检测精度可以达到微米级": {
+    "question": "机器视觉质检的检测精度可以达到微米级。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:41:24",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "在智能客服的核心技术中用于理解用户需求并提取关键信息的技术是": {
+    "question": "在智能客服的核心技术中，用于理解用户需求并提取关键信息的技术是？（）",
+    "options": [
+      "自然语言理解",
+      "对话管理",
+      "自然语言生成",
+      "情感分析"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:42:03",
+    "tokens": {
+      "input": 106,
+      "output": 1,
+      "total": 107
+    }
+  },
+  "智能客服相比传统人工客服的核心优势不包括以下哪一项": {
+    "question": "智能客服相比传统人工客服的核心优势不包括以下哪一项？（）",
+    "options": [
+      "24小时全天候服务",
+      "服务质量标准化",
+      "人工成本持续上升",
+      "高并发处理能力"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:42:07",
+    "tokens": {
+      "input": 106,
+      "output": 1,
+      "total": 107
+    }
+  },
+  "智能客服的主流模式是完全替代人工客服无需人工介入": {
+    "question": "智能客服的主流模式是完全替代人工客服，无需人工介入。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:42:12",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "传统广告投放的主要困境是缺乏什么": {
+    "question": "传统广告投放的主要困境是缺乏什么？（）",
+    "options": [
+      "广而告之的能力",
+      "针对性和精准性",
+      "曝光量",
+      "广告创意"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:42:50",
+    "tokens": {
+      "input": 100,
+      "output": 1,
+      "total": 101
+    }
+  },
+  "个性化广告核心理念不包括以下哪项": {
+    "question": "个性化广告核心理念不包括以下哪项？（）",
+    "options": [
+      "恰当的时间",
+      "合适的人",
+      "相关的内容",
+      "最高的出价"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:42:54",
+    "tokens": {
+      "input": 97,
+      "output": 1,
+      "total": 98
+    }
+  },
+  "个性化广告的核心价值包括哪些": {
+    "question": "个性化广告的核心价值包括哪些？（）",
+    "options": [
+      "提升商业转换率",
+      "改善用户体验",
+      "增加广告曝光量",
+      "降低广告成本"
+    ],
+    "type": "multiple",
+    "answer": "A#B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:42:57",
+    "tokens": {
+      "input": 106,
+      "output": 3,
+      "total": 109
+    }
+  },
+  "协同过滤算法中基于物品的协同过滤的优势不包括以下哪一项": {
+    "question": "协同过滤算法中，基于物品的协同过滤的优势不包括以下哪一项？（）",
+    "options": [
+      "稳定性好",
+      "可解释性强",
+      "过度依赖人工特征工程",
+      "适合商品更新频率高的场景"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:43:35",
+    "tokens": {
+      "input": 110,
+      "output": 1,
+      "total": 111
+    }
+  },
+  "以下哪项不属于冷启动问题的类型": {
+    "question": "以下哪项不属于冷启动问题的类型？（）",
+    "options": [
+      "用户冷启动",
+      "物品冷启动",
+      "系统冷启动",
+      "算法冷启动"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:43:39",
+    "tokens": {
+      "input": 99,
+      "output": 1,
+      "total": 100
+    }
+  },
+  "以下哪些属于电商推荐系统的商业评估指标": {
+    "question": "以下哪些属于电商推荐系统的商业评估指标？（）",
+    "options": [
+      "GMV（商品交易总额）",
+      "点击率",
+      "复购率",
+      "长尾商品覆盖率"
+    ],
+    "type": "multiple",
+    "answer": "A#C#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:43:42",
+    "tokens": {
+      "input": 110,
+      "output": 5,
+      "total": 115
+    }
+  },
+  "以下哪项不是娱乐内容推荐与购物推荐社交媒体推荐的主要区别": {
+    "question": "以下哪项不是娱乐内容推荐与购物推荐、社交媒体推荐的主要区别？（）",
+    "options": [
+      "娱乐产品具有高度主观性",
+      "娱乐内容时效性要求高，流行趋势变化快",
+      "娱乐推荐需要用户主动搜索",
+      "娱乐推荐需兼顾用户的发现性需求"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:44:21",
+    "tokens": {
+      "input": 125,
+      "output": 1,
+      "total": 126
+    }
+  },
+  "音乐推荐中对音乐内容的分析包括以下哪些维度": {
+    "question": "音乐推荐中对音乐内容的分析包括以下哪些维度？（）",
+    "options": [
+      "音频特征提取（节奏、音调、音色）",
+      "歌词语义分析与情感识别",
+      "用户播放完整度与重复播放频次",
+      "音乐流派自动分类与情感标签生成"
+    ],
+    "type": "multiple",
+    "answer": "A#B#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:44:25",
+    "tokens": {
+      "input": 131,
+      "output": 5,
+      "total": 136
+    }
+  },
+  "长视频推荐更关注用户的观看进度弹幕互动及系列内容推荐而短视频推荐更注重完播率和社交传播率": {
+    "question": "长视频推荐更关注用户的观看进度、弹幕互动及系列内容推荐，而短视频推荐更注重完播率和社交传播率。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:44:29",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "数字人技术结合了大语言模型语音合成和以下哪种技术": {
+    "question": "数字人技术结合了大语言模型、语音合成和以下哪种技术？（）",
+    "options": [
+      "计算机图形学",
+      "量子计算",
+      "区块链",
+      "生物识别"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:45:42",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "以下哪个不是数字人的典型应用场景": {
+    "question": "以下哪个不是数字人的典型应用场景？（）",
+    "options": [
+      "新闻播报",
+      "智能客服",
+      "直播带货",
+      "量子通信"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:45:46",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "数字人的核心特征包括以下哪些": {
+    "question": "数字人的核心特征包括以下哪些？（）",
+    "options": [
+      "逼真的视觉表现",
+      "自然的语音交流能力",
+      "智能的内容生成能力",
+      "依赖预设脚本的机械重演"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:45:49",
+    "tokens": {
+      "input": 113,
+      "output": 5,
+      "total": 118
+    }
+  },
+  "在ai时代学生的核心竞争力不包括以下哪项": {
+    "question": "在AI时代，学生的核心竞争力不包括以下哪项？（）",
+    "options": [
+      "批判性思维",
+      "提问能力",
+      "情感体验与共情能力",
+      "单纯的知识记忆量"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:46:27",
+    "tokens": {
+      "input": 104,
+      "output": 1,
+      "total": 105
+    }
+  },
+  "人工智能技术冲击了传统教育模式要求我们重新审视学习的本质教育重点应从知识记忆转向什么方向": {
+    "question": "人工智能技术冲击了传统教育模式，要求我们重新审视学习的本质，教育重点应从知识记忆转向什么方向？（）",
+    "options": [
+      "知识复现能力",
+      "能力培养与思维训练",
+      "标准化考试技巧",
+      "单一学科知识掌握"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:46:31",
+    "tokens": {
+      "input": 118,
+      "output": 1,
+      "total": 119
+    }
+  },
+  "关于ai工具使用的伦理规范以下正确的是": {
+    "question": "关于AI工具使用的伦理规范，以下正确的是？（）",
+    "options": [
+      "需清晰界定AI辅助与学术不端的边界",
+      "使用AI生成内容无需标注来源",
+      "应培养负责任的技术使用习惯",
+      "AI生成内容的责任完全由AI承担"
+    ],
+    "type": "multiple",
+    "answer": "A#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:46:35",
+    "tokens": {
+      "input": 126,
+      "output": 3,
+      "total": 129
+    }
+  },
+  "通用人工智能agi的核心能力不包括以下哪一项": {
+    "question": "通用人工智能（AGI）的核心能力不包括以下哪一项？（）",
+    "options": [
+      "跨领域的推理和适应能力",
+      "自主设定目标和策略优化",
+      "依赖海量数据寻找规律",
+      "从少量样本中快速学习"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:47:13",
+    "tokens": {
+      "input": 114,
+      "output": 1,
+      "total": 115
+    }
+  },
+  "塞尔的中文屋思想实验主要想说明什么问题": {
+    "question": "塞尔的中文屋思想实验主要想说明什么问题？（）",
+    "options": [
+      "AI可以真正理解语言的意义",
+      "符号操纵不等于语义理解",
+      "AI具有自我意识",
+      "中文是最难理解的语言"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:47:16",
+    "tokens": {
+      "input": 107,
+      "output": 1,
+      "total": 108
+    }
+  },
+  "当前ai已经具备了真正的自我意识和情感共鸣": {
+    "question": "当前AI已经具备了真正的自我意识和情感共鸣。（）",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:47:20",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "人类对ai产生拟人化倾向的根本原因是什么": {
+    "question": "人类对AI产生拟人化倾向的根本原因是什么？",
+    "options": [
+      "AI具有真正的意识和情感",
+      "人类对社会信号的天然敏感性，由社会性决定",
+      "AI的算法设计刻意模仿人类行为",
+      "人类缺乏真实的社交关系"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:47:58",
+    "tokens": {
+      "input": 115,
+      "output": 1,
+      "total": 116
+    }
+  },
+  "当ai被赋予声音特质名字和个性偏好时用户会将其感知为伙伴而非工具": {
+    "question": "当AI被赋予声音特质、名字和个性偏好时，用户会将其感知为伙伴而非工具。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:48:02",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "ai治理的核心目标不包括以下哪项": {
+    "question": "AI治理的核心目标不包括以下哪项？",
+    "options": [
+      "确保AI发展符合大多数人的公共利益",
+      "防范技术权利过度集中",
+      "维护社会公平和正义",
+      "促进AI技术完全由企业自主发展"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:48:40",
+    "tokens": {
+      "input": 111,
+      "output": 1,
+      "total": 112
+    }
+  },
+  "ai治理仅需政府和企业参与即可无需公众和社会组织介入": {
+    "question": "AI治理仅需政府和企业参与即可，无需公众和社会组织介入。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/9/22 00:48:43",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  }
+}

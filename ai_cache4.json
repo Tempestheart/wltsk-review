@@ -1,0 +1,4826 @@
+{
+  "幼发拉底河和底格里斯河两大流域产生的文明是指文明": {
+    "question": "幼发拉底河和底格里斯河两大流域产生的文明是指()文明。",
+    "options": [
+      "古埃及",
+      "古印度",
+      "古西亚",
+      "古希腊"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 22:36:38",
+    "tokens": {
+      "input": 102,
+      "output": 1,
+      "total": 103
+    }
+  },
+  "对当今世界影响最大的文明是": {
+    "question": "对当今世界影响最大的文明是()。",
+    "options": [
+      "古埃及、古印度",
+      "古希腊、古罗马",
+      "古玛雅、古印加",
+      "地中海、中国"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 22:36:42",
+    "tokens": {
+      "input": 105,
+      "output": 1,
+      "total": 106
+    }
+  },
+  "建筑记录的历史往往比文字记录的历史更真实更直观": {
+    "question": "建筑记录的历史往往比文字记录的历史更真实、更直观。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 22:36:46",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "中国建筑最重要的特点是": {
+    "question": "中国建筑最重要的特点是()。",
+    "options": [
+      "独立单栋出现",
+      "立体布局",
+      "点景建筑居多",
+      "平面群体的组合"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 22:43:57",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "中国古代最大的庭院是": {
+    "question": "中国古代最大的庭院是()。",
+    "options": [
+      "中和殿",
+      "皇极殿",
+      "太和殿",
+      "岳麓书院"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 22:44:01",
+    "tokens": {
+      "input": 94,
+      "output": 1,
+      "total": 95
+    }
+  },
+  "院落由若干单栋独立的建筑组成": {
+    "question": "院落由若干单栋独立的建筑组成。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 22:44:05",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "下面属于自由式布局的建筑是": {
+    "question": "下面属于自由式布局的建筑是()。",
+    "options": [
+      "谐趣园",
+      "太和殿",
+      "上海豫园",
+      "寄畅园"
+    ],
+    "type": "multiple",
+    "answer": "A#C#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 23:05:47",
+    "tokens": {
+      "input": 106,
+      "output": 5,
+      "total": 111
+    }
+  },
+  "下列选项中不属于中轴对称式布局方式的建筑": {
+    "question": "下列选项中()不属于中轴对称式布局方式的建筑。",
+    "options": [
+      "北京故宫",
+      "丽江木府",
+      "私家园林",
+      "曲阜孔庙"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 23:05:51",
+    "tokens": {
+      "input": 99,
+      "output": 1,
+      "total": 100
+    }
+  },
+  "下面关于北京四合院描述错误的是": {
+    "question": "下面关于北京四合院描述错误的是()。",
+    "options": [
+      "庭院较开阔",
+      "庭院中间可以种植植物",
+      "有较大的空间供人们活动",
+      "属于自由式布局结构"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 23:05:56",
+    "tokens": {
+      "input": 105,
+      "output": 1,
+      "total": 106
+    }
+  },
+  "天井院是北方常见的庭院建筑": {
+    "question": "天井院是北方常见的庭院建筑。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 23:06:00",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "皇家园林主要是自由式布局但中间也分布着轴线布局": {
+    "question": "皇家园林主要是自由式布局,但中间也分布着轴线布局。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 23:06:05",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "中国古代建筑外观造型的基本特点是": {
+    "question": "中国古代建筑外观造型的基本特点是()。",
+    "options": [
+      "大屋顶",
+      "斗拱",
+      "三段式",
+      "四段式"
+    ],
+    "type": "multiple",
+    "answer": "A#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 23:25:09",
+    "tokens": {
+      "input": 102,
+      "output": 5,
+      "total": 107
+    }
+  },
+  "中国古代建筑的式样是指": {
+    "question": "中国古代建筑的式样是指()。",
+    "options": [
+      "单体建筑造型",
+      "建筑屋顶造型",
+      "建筑外观风格",
+      "建筑装饰特点"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 23:25:13",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "北京故宫太和殿应用的屋顶式样是": {
+    "question": "北京故宫太和殿应用的屋顶式样是()。",
+    "options": [
+      "单檐庑殿顶",
+      "单檐歇山顶",
+      "重檐庑殿顶",
+      "重檐歇山顶"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 23:25:16",
+    "tokens": {
+      "input": 109,
+      "output": 1,
+      "total": 110
+    }
+  },
+  "现存古建筑中是典型的盔顶建筑": {
+    "question": "现存古建筑中()是典型的盔顶建筑。",
+    "options": [
+      "华严寺",
+      "北京天坛",
+      "北京太庙",
+      "岳阳楼"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 23:25:21",
+    "tokens": {
+      "input": 99,
+      "output": 1,
+      "total": 100
+    }
+  },
+  "庑殿歇山悬山硬山等是全国通用的屋顶式样": {
+    "question": "庑殿、歇山、悬山、硬山等是全国通用的屋顶式样。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 23:25:25",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "硬山屋顶和悬山屋顶都是两坡顶": {
+    "question": "硬山屋顶和悬山屋顶都是两坡顶。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/6 23:25:28",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "单栋建筑的造型包括": {
+    "question": "单栋建筑的造型包括()。",
+    "options": [
+      "殿、堂",
+      "楼、阁",
+      "寺、院",
+      "台、轩、舫"
+    ],
+    "type": "multiple",
+    "answer": "A#B#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:01:19",
+    "tokens": {
+      "input": 107,
+      "output": 5,
+      "total": 112
+    }
+  },
+  "高台建筑在时期最为常见": {
+    "question": "高台建筑在()时期最为常见。",
+    "options": [
+      "元代",
+      "清朝",
+      "秦汉",
+      "明朝"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:01:24",
+    "tokens": {
+      "input": 90,
+      "output": 1,
+      "total": 91
+    }
+  },
+  "中国古代三大名楼不包括": {
+    "question": "中国古代三大名楼不包括()。",
+    "options": [
+      "岳阳楼",
+      "钟鼓楼",
+      "黄鹤楼",
+      "滕王阁"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:01:28",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "大规模的建筑中心都是堂建筑": {
+    "question": "大规模的建筑中心都是堂建筑。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:01:32",
+    "tokens": {
+      "input": 79,
+      "output": 1,
+      "total": 80
+    }
+  },
+  "建筑的形式一般是根据其使用功能所处地位决定的": {
+    "question": "建筑的形式一般是根据其使用功能、所处地位决定的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:01:36",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "轩造型的建筑有一面是没有墙壁门窗的": {
+    "question": "轩造型的建筑有一面是没有墙壁门窗的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:01:40",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "现代中国建筑结构发展成为的相互结合": {
+    "question": "现代中国建筑结构发展成为()的相互结合。",
+    "options": [
+      "竹木",
+      "土木",
+      "砖木",
+      "石木"
+    ],
+    "type": "multiple",
+    "answer": "B#C#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:07:23",
+    "tokens": {
+      "input": 102,
+      "output": 5,
+      "total": 107
+    }
+  },
+  "中国古代建筑结构材料是": {
+    "question": "中国古代建筑结构材料是()。",
+    "options": [
+      "以砖为主",
+      "以土为主",
+      "以木为主",
+      "以石为主"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:07:27",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "木结构最大的优越性是抗震": {
+    "question": "木结构最大的优越性是抗震。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:07:30",
+    "tokens": {
+      "input": 79,
+      "output": 1,
+      "total": 80
+    }
+  },
+  "中国古代建筑木结构形式主要包括": {
+    "question": "中国古代建筑木结构形式主要包括()。",
+    "options": [
+      "单梁式",
+      "穿斗式",
+      "拱斗式",
+      "抬梁式"
+    ],
+    "type": "multiple",
+    "answer": "B#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:14:14",
+    "tokens": {
+      "input": 105,
+      "output": 3,
+      "total": 108
+    }
+  },
+  "下面关于岳岳寺塔描述错误的是": {
+    "question": "下面关于岳岳寺塔描述错误的是()。",
+    "options": [
+      "一般是实心塔",
+      "内部空间较小",
+      "由砖木组合架构的塔",
+      "位于河南登封"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:14:19",
+    "tokens": {
+      "input": 105,
+      "output": 1,
+      "total": 106
+    }
+  },
+  "穿斗式构架的建筑更有利于抗风抗震": {
+    "question": "穿斗式构架的建筑更有利于抗风抗震。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:14:23",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "中国古建筑装饰有各种不同的手法下列选项中哪些是中国古建筑装饰的手法": {
+    "question": "中国古建筑装饰有各种不同的手法，下列选项中哪些是中国古建筑装饰的手法？（）",
+    "options": [
+      "琉璃",
+      "泥塑",
+      "彩塑",
+      "壁画"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:28:30",
+    "tokens": {
+      "input": 110,
+      "output": 7,
+      "total": 117
+    }
+  },
+  "开封山陕甘会馆的木雕是彩色透雕": {
+    "question": "开封山陕甘会馆的木雕是彩色透雕。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:28:34",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "中国古建筑中一般不会把实用的构件做成装饰": {
+    "question": "中国古建筑中一般不会把实用的构件做成装饰。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:29:18",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "砖雕是用材料烧制的雕塑装饰": {
+    "question": "砖雕是用()材料烧制的雕塑装饰。",
+    "options": [
+      "瓦砖",
+      "红砖",
+      "泥砖",
+      "青砖"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 00:34:13"
+  },
+  "北方建筑的砖雕风格一般比较": {
+    "question": "北方建筑的砖雕风格一般比较()。",
+    "options": [
+      "细腻",
+      "粗犷",
+      "丰富",
+      "单一"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 00:34:16"
+  },
+  "砖雕一般用在建筑的门楣清水墙面檐下等地方": {
+    "question": "砖雕一般用在建筑的门楣、清水墙面、檐下等地方。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:34:20",
+    "tokens": {
+      "input": 89,
+      "output": 1,
+      "total": 90
+    }
+  },
+  "中国古建筑中墙转角的石柱作用是": {
+    "question": "中国古建筑中墙转角的石柱作用是()。",
+    "options": [
+      "抗震",
+      "装饰",
+      "实用保护",
+      "防雨"
+    ],
+    "type": "multiple",
+    "answer": "B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:42:38",
+    "tokens": {
+      "input": 103,
+      "output": 5,
+      "total": 108
+    }
+  },
+  "曲阜孔庙应用的装饰是": {
+    "question": "曲阜孔庙应用的装饰是()。",
+    "options": [
+      "木雕龙柱",
+      "砖雕龙柱",
+      "泥雕龙柱",
+      "石雕龙柱"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 00:42:42"
+  },
+  "石雕常用于建筑的露天部位如门墩月台等": {
+    "question": "石雕常用于建筑的露天部位,如门墩、月台等。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:42:46",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "全国各地运用龙柱最多的是文庙": {
+    "question": "全国各地运用龙柱最多的是文庙。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:42:50",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "下面关于建筑琉璃装饰说法错误的是": {
+    "question": "下面关于建筑琉璃装饰说法错误的是()。",
+    "options": [
+      "色彩鲜艳",
+      "属于中国古建筑“三雕”之一",
+      "工艺难度高",
+      "一般用于高等级、大规模建筑中"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 00:53:52"
+  },
+  "开封铁塔的表面是制成的": {
+    "question": "开封铁塔的表面是()制成的。",
+    "options": [
+      "铁铸",
+      "铜铸",
+      "瓷砖",
+      "琉璃砖"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 00:53:55"
+  },
+  "琉璃装饰多用于建筑墙角处": {
+    "question": "琉璃装饰多用于建筑墙角处。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 00:54:00",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "泥塑的特点是": {
+    "question": "泥塑的特点是()。",
+    "options": [
+      "级别低",
+      "工艺难度高",
+      "价格相对便宜",
+      "是民间工艺手法的艺术体现"
+    ],
+    "type": "multiple",
+    "answer": "A#C#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 01:04:20",
+    "tokens": {
+      "input": 105,
+      "output": 3,
+      "total": 108
+    }
+  },
+  "岳麓书院文庙明伦堂墙面泥塑图案是": {
+    "question": "岳麓书院文庙明伦堂墙面泥塑图案是()。",
+    "options": [
+      "菩萨",
+      "鹰",
+      "蝙蝠",
+      "梅花"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 01:04:24"
+  },
+  "泥塑一般在民间建筑上常见": {
+    "question": "泥塑一般在民间建筑上常见。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 01:04:28",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "下面关于壁画说法正确的是": {
+    "question": "下面关于壁画说法正确的是()。",
+    "options": [
+      "壁画和彩画是同一种装饰手法",
+      "壁画画的是一种规则图案",
+      "多用于墙面装饰",
+      "壁画多用于民间建筑"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 01:12:26"
+  },
+  "山西芮城永乐宫是元代建筑": {
+    "question": "山西芮城永乐宫是元代()建筑。",
+    "options": [
+      "佛教",
+      "儒教",
+      "基督教",
+      "道教"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 01:12:30"
+  },
+  "彩画是画在梁枋等建筑构件上的图案装饰": {
+    "question": "彩画是画在梁枋等建筑构件上的图案装饰。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 01:12:34",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "中国古代城市规划的制度和思想主要体现的是": {
+    "question": "中国古代城市规划的制度和思想,主要体现的是()。",
+    "options": [
+      "政治性因素",
+      "商业因素",
+      "人口的因素",
+      "军事战争"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 01:22:59"
+  },
+  "古代里坊制是指城市规划按照形式划分": {
+    "question": "古代里坊制是指城市规划按照()形式划分。",
+    "options": [
+      "六方格",
+      "二方格0",
+      "四方格",
+      "八方格"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 01:23:03",
+    "tokens": {
+      "input": 97,
+      "output": 1,
+      "total": 98
+    }
+  },
+  "有规划而建造的城市往往都是经济中心": {
+    "question": "有规划而建造的城市往往都是经济中心。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 01:23:07",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "古代的皇宫布局秉持着制度": {
+    "question": "古代的皇宫布局秉持着()制度。",
+    "options": [
+      "三门三朝",
+      "一门二朝",
+      "四门四朝",
+      "五门三朝"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 01:36:24"
+  },
+  "为了表现皇权的尊贵皇城故宫的四方设立了表示天地日月的建筑其中建在南边的是": {
+    "question": "为了表现皇权的尊贵,皇城故宫的四方设立了表示天地日月的建筑,其中建在南边的是()。",
+    "options": [
+      "天坛",
+      "地坛",
+      "日坛",
+      "月坛"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 01:36:27"
+  },
+  "中国古代城市和古希腊罗马城市都有很多大型广场": {
+    "question": "中国古代城市和古希腊罗马城市都有很多大型广场。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 01:36:31",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "中国风水观念中东是": {
+    "question": "中国风水观念中“东”是()。",
+    "options": [
+      "玄武楼",
+      "白虎",
+      "青龙",
+      "朱雀"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 01:51:43"
+  },
+  "中国历史上第一个商品经济大发展时期是在": {
+    "question": "中国历史上第一个商品经济大发展时期是在()。",
+    "options": [
+      "清朝",
+      "明朝",
+      "元朝",
+      "宋朝"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 01:51:47"
+  },
+  "中国古代城市的特点是都有": {
+    "question": "中国古代城市的特点是都有()。",
+    "options": [
+      "箭楼",
+      "钟鼓楼",
+      "城楼",
+      "瓮城"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 01:51:51",
+    "tokens": {
+      "input": 92,
+      "output": 1,
+      "total": 93
+    }
+  },
+  "唐朝长安是中国古代城市规划里坊制实行的最典型代表": {
+    "question": "唐朝长安是中国古代城市规划里坊制实行的最典型代表。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 01:51:54",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "中国古代建筑制度化的主要内容表现为": {
+    "question": "中国古代建筑制度化的主要内容表现为()。",
+    "options": [
+      "建筑等级制度",
+      "建筑地域性分区制度",
+      "建筑风水制度",
+      "工官制度"
+    ],
+    "type": "multiple",
+    "answer": "A#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/7 01:56:01",
+    "tokens": {
+      "input": 107,
+      "output": 3,
+      "total": 110
+    }
+  },
+  "详细规定中国建筑等级制度的是": {
+    "question": "详细规定中国建筑等级制度的是()。",
+    "options": [
+      "《易经》",
+      "《黄帝内经》",
+      "《周礼》",
+      "《春秋》"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 01:56:04"
+  },
+  "中国古代建筑屋顶样式的最高等级是": {
+    "question": "中国古代建筑屋顶样式的最高等级是()。",
+    "options": [
+      "悬山",
+      "歇山",
+      "庑殿",
+      "硬山"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 01:59:26"
+  },
+  "中国古代建筑开间数最高等级是": {
+    "question": "中国古代建筑开间数最高等级是()。",
+    "options": [
+      "十一开间",
+      "十二开间",
+      "八开间",
+      "九开间"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/7 02:14:10"
+  },
+  "中国古代建筑色彩最高等级是": {
+    "question": "中国古代建筑色彩最高等级是()。",
+    "options": [
+      "红色",
+      "蓝色",
+      "黄色",
+      "绿色"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 17:27:17"
+  },
+  "彩画式样有": {
+    "question": "彩画式样有()。",
+    "options": [
+      "龙凤彩画",
+      "和玺彩画",
+      "旋子彩画",
+      "花鸟彩画",
+      "苏式彩画"
+    ],
+    "type": "multiple",
+    "answer": "B#C#E",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 17:48:35",
+    "tokens": {
+      "input": 115,
+      "output": 5,
+      "total": 120
+    }
+  },
+  "中国古代建筑等级表现在": {
+    "question": "中国古代建筑等级表现在()。",
+    "options": [
+      "屋顶样式",
+      "房间数",
+      "开间数",
+      "建筑色彩",
+      "建筑高度",
+      "彩画样式"
+    ],
+    "type": "multiple",
+    "answer": "A#C#D#F",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 17:48:39",
+    "tokens": {
+      "input": 113,
+      "output": 7,
+      "total": 120
+    }
+  },
+  "建筑横梁上的包袱中间是": {
+    "question": "建筑横梁上的包袱中间是()。",
+    "options": [
+      "一种规则图案",
+      "一种透雕",
+      "一幅画面",
+      "一种琉璃"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 17:48:42"
+  },
+  "旋子彩画是双括弧形式": {
+    "question": "旋子彩画是双括弧形式。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 17:48:46",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "岳麓书院专祠排列中濂溪祠是用来纪念周敦颐": {
+    "question": "岳麓书院专祠排列中濂溪祠是用来纪念周敦颐。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 17:48:50",
+    "tokens": {
+      "input": 89,
+      "output": 1,
+      "total": 90
+    }
+  },
+  "关于工匠管理制度的记载是在中": {
+    "question": "关于工匠管理制度的记载是在()中。",
+    "options": [
+      "《礼仪》",
+      "《大学》",
+      "《考工记》",
+      "《春秋》"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 17:59:16",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "下面关于《营造法式》说法错误的是": {
+    "question": "下面关于《营造法式》说法错误的是()。",
+    "options": [
+      "中国历史上第一部最完整的建筑全书",
+      "是一部建筑学专著",
+      "目的是管理建筑",
+      "是王安石变法的产物"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 17:59:19"
+  },
+  "《工程做法》这部著作重在官工": {
+    "question": "《工程做法》这部著作重在官工。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 17:59:24",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "中国建筑的地域特色体现在建筑的": {
+    "question": "中国建筑的地域特色体现在建筑的()。",
+    "options": [
+      "平面布局",
+      "外观造型",
+      "结构、材料、装饰艺术",
+      "ABC都有体现"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 18:05:58"
+  },
+  "西藏地区一般是民居": {
+    "question": "西藏地区一般是()民居。",
+    "options": [
+      "阿以旺",
+      "天井院",
+      "碉楼式",
+      "四合院"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 18:06:01"
+  },
+  "山西四合院的特点是单坡造型": {
+    "question": "山西四合院的特点是单坡造型。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 18:06:05",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "南方干栏式特点建筑的目的是": {
+    "question": "南方干栏式特点建筑的目的是()。",
+    "options": [
+      "防潮",
+      "美观",
+      "防虫蛇",
+      "防震"
+    ],
+    "type": "multiple",
+    "answer": "A#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 18:22:28",
+    "tokens": {
+      "input": 102,
+      "output": 3,
+      "total": 105
+    }
+  },
+  "北方的建筑起源于": {
+    "question": "北方的建筑起源于()。",
+    "options": [
+      "院落",
+      "穴居",
+      "庭院",
+      "天井"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 18:22:31"
+  },
+  "北方宫殿屋顶起翘比较": {
+    "question": "北方宫殿屋顶起翘比较()。",
+    "options": [
+      "尖锐",
+      "高",
+      "平缓",
+      "陡"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 18:22:34"
+  },
+  "北方建筑考虑重点是在阳光日照保暖等因素": {
+    "question": "北方建筑考虑重点是在阳光、日照、保暖等因素。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 18:22:39",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "南方建筑最早是巢居": {
+    "question": "南方建筑最早是巢居。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 18:22:43",
+    "tokens": {
+      "input": 79,
+      "output": 1,
+      "total": 80
+    }
+  },
+  "由于社会历史原因而形成的典型建筑类型是": {
+    "question": "由于社会历史原因而形成的典型建筑类型是()。",
+    "options": [
+      "四合院",
+      "窑洞",
+      "客家土楼",
+      "干栏式"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 18:30:17"
+  },
+  "五胡乱华中的五胡是指匈奴鲜卑羯氐以及等游牧部落联盟": {
+    "question": "五胡乱华中的“五胡”是指匈奴、鲜卑、羯、氐以及()等游牧部落联盟。",
+    "options": [
+      "藏",
+      "汉",
+      "蒙",
+      "羌"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 18:30:21",
+    "tokens": {
+      "input": 107,
+      "output": 1,
+      "total": 108
+    }
+  },
+  "江西土楼基本都是圆形的": {
+    "question": "江西土楼基本都是圆形的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 18:30:25",
+    "tokens": {
+      "input": 79,
+      "output": 1,
+      "total": 80
+    }
+  },
+  "中国历史上北方中原地区的艺术文化风格往往是": {
+    "question": "中国历史上北方中原地区的艺术文化风格往往是()。",
+    "options": [
+      "浪漫主义",
+      "实用主义",
+      "古典主义",
+      "现实主义"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 18:33:43"
+  },
+  "中国历史上南方文化艺术代表是楚文化": {
+    "question": "中国历史上南方文化艺术代表是楚文化。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 18:33:48",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "所谓城防建筑主要就是我们常说的": {
+    "question": "所谓城防建筑主要就是我们常说的()。",
+    "options": [
+      "城楼",
+      "城门",
+      "城门和城楼",
+      "城墙和城楼"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 18:38:39"
+  },
+  "万里长城东起西到嘉峪关": {
+    "question": "万里长城东起()西到嘉峪关。",
+    "options": [
+      "玉门关",
+      "娘子关",
+      "山海关",
+      "阳关"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 18:38:42"
+  },
+  "中国长城不属于城防建筑因为它不是城墙": {
+    "question": "中国长城不属于城防建筑,因为它不是城墙。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 18:38:46",
+    "tokens": {
+      "input": 83,
+      "output": 4,
+      "total": 87
+    }
+  },
+  "城墙有一个很大的厚度断面呈梯形下宽上窄顶上是一条宽阔的大路叫": {
+    "question": "城墙有一个很大的厚度，断面呈梯形，下宽上窄，顶上是一条宽阔的大路，叫()。",
+    "options": [
+      "走道",
+      "跑道",
+      "通道",
+      "马道"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 19:13:44"
+  },
+  "城墙顶上朝向城外的一面做成一个个垛状块体叫用于战时射箭御敌": {
+    "question": "城墙顶上朝向城外的一面做成一个个垛状块体叫(),用于战时射箭御敌。",
+    "options": [
+      "墙体",
+      "雉堞",
+      "女儿墙",
+      "箭楼"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 19:13:48",
+    "tokens": {
+      "input": 106,
+      "output": 1,
+      "total": 107
+    }
+  },
+  "湖南凤凰古城是作家的家乡": {
+    "question": "湖南凤凰古城是作家()的家乡。",
+    "options": [
+      "茅盾",
+      "沈从文",
+      "格非",
+      "郭沫若"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 19:13:51"
+  },
+  "茶陵古城的城墙是用砌筑的": {
+    "question": "茶陵古城的城墙是用()砌筑的。",
+    "options": [
+      "火成岩",
+      "黑砂岩",
+      "土木",
+      "红砂岩"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 19:13:54"
+  },
+  "中国长城上建造的烽火台主要是一种信号台": {
+    "question": "中国长城上建造的烽火台,主要是一种信号台。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 19:13:58",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "嘉峪关位于陕西是明长城西端第一重关": {
+    "question": "嘉峪关位于陕西,是明长城西端第一重关。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 19:14:03",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "南京城瓮城的特点是有两道城门": {
+    "question": "南京城瓮城的特点是有两道城门。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 19:14:06",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "瓮城属于中国古代城市城墙一部分两侧设有箭楼门闸等防御设施": {
+    "question": "瓮城属于中国古代城市城墙一部分,两侧设有箭楼、门闸等防御设施。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 19:14:10",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "皇宫的规划布局有等规定": {
+    "question": "皇宫的规划布局有()等规定。",
+    "options": [
+      "前朝后寝",
+      "五门三朝",
+      "北阳南阴",
+      "左祖右社"
+    ],
+    "type": "multiple",
+    "answer": "A#B#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 19:20:07",
+    "tokens": {
+      "input": 110,
+      "output": 5,
+      "total": 115
+    }
+  },
+  "西方历史上最伟大的建筑一般是": {
+    "question": "西方历史上最伟大的建筑一般是()。",
+    "options": [
+      "寺院",
+      "行宫",
+      "神庙、教堂",
+      "皇宫"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 19:20:10"
+  },
+  "下面哪座殿堂不属于北京故宫三大殿": {
+    "question": "下面哪座殿堂不属于北京故宫三大殿？()",
+    "options": [
+      "太和殿",
+      "中和殿",
+      "保和殿",
+      "交泰殿"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 19:20:13"
+  },
+  "汉代最著名的宫殿是": {
+    "question": "汉代最著名的宫殿是()。",
+    "options": [
+      "阿房宫",
+      "未央宫",
+      "太极宫",
+      "大明宫"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 19:20:16"
+  },
+  "皇宫的左边是祭祀社稷的社稷坛右边是祭祀祖宗的祖庙": {
+    "question": "皇宫的左边是祭祀社稷的社稷坛,右边是祭祀祖宗的祖庙。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 19:20:20",
+    "tokens": {
+      "input": 92,
+      "output": 1,
+      "total": 93
+    }
+  },
+  "在中国宗教是服从于皇权的最伟大的建筑一般都是皇宫": {
+    "question": "在中国宗教是服从于皇权的,最伟大的建筑一般都是皇宫。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 19:20:24",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "古代皇宫制度前朝后寝是以为分界线": {
+    "question": "古代皇宫制度“前朝后寝”是以()为分界线。",
+    "options": [
+      "库门",
+      "雉门",
+      "乾清门",
+      "路门"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 21:27:36"
+  },
+  "故宫设有五门三朝下列不属于五门的是": {
+    "question": "故宫设有五门三朝,下列不属于五门的是()。",
+    "options": [
+      "大前门",
+      "天安门",
+      "端门",
+      "乾清门"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 21:27:39"
+  },
+  "社稷坛是祭祀社神和稷神的地方社神和稷神分别为": {
+    "question": "社稷坛是祭祀“社神”和“稷神”的地方，“社神”和“稷神”分别为()。",
+    "options": [
+      "天神和地神",
+      "土地之神和五谷之神",
+      "江山之神和人文之神",
+      "山川之神和风雨之神"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 21:27:43"
+  },
+  "下列选项中哪些属于五门三朝中的三朝": {
+    "question": "下列选项中，哪些属于五门三朝中的三朝？（）",
+    "options": [
+      "太和殿",
+      "交泰殿",
+      "中和殿",
+      "保和殿"
+    ],
+    "type": "multiple",
+    "answer": "A#C#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 21:27:47",
+    "tokens": {
+      "input": 110,
+      "output": 5,
+      "total": 115
+    }
+  },
+  "全国大规模的九龙壁主要包括": {
+    "question": "全国大规模的九龙壁主要包括()。",
+    "options": [
+      "大同九龙壁",
+      "敦煌九龙壁",
+      "平遥九龙壁",
+      "北海九龙壁"
+    ],
+    "type": "multiple",
+    "answer": "A#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 21:50:34",
+    "tokens": {
+      "input": 105,
+      "output": 3,
+      "total": 108
+    }
+  },
+  "沈阳故宫皇帝的正殿是": {
+    "question": "沈阳故宫皇帝的正殿是()。",
+    "options": [
+      "太和殿",
+      "保和殿",
+      "大政殿",
+      "中和殿"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 21:50:37"
+  },
+  "沈阳故宫厢房建筑的屋顶式样是": {
+    "question": "沈阳故宫厢房建筑的屋顶式样是()。",
+    "options": [
+      "庑殿顶",
+      "歇山顶",
+      "悬山顶",
+      "硬山顶"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 21:50:40"
+  },
+  "皇家建筑中的影壁其实就是一道墙壁一般老百姓家称为照壁": {
+    "question": "皇家建筑中的影壁其实就是一道墙壁,一般老百姓家称为照壁。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 21:50:45",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "大同九龙壁色彩是琉璃烧制而成的": {
+    "question": "大同九龙壁色彩是琉璃烧制而成的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 21:50:48",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "中国古代的祭祀属于性质": {
+    "question": "中国古代的祭祀属于()性质。",
+    "options": [
+      "宗教",
+      "迷信",
+      "纪念和感恩",
+      "民间信仰"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:16:28"
+  },
+  "坛是用来祭祀的": {
+    "question": "“坛”是用来祭祀()的。",
+    "options": [
+      "孔子",
+      "祖宗",
+      "菩萨",
+      "自然神灵"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:16:31"
+  },
+  "社稷坛是一种方形坛台并用颜色的土壤填埋在坛台上": {
+    "question": "社稷坛是一种方形坛台,并用()颜色的土壤填埋在坛台上。",
+    "options": [
+      "青、白、赤、红、黄",
+      "青、蓝、赤、红、黄",
+      "青、白、赤、黑、黄",
+      "青、红、赤、黑、黄"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:16:34"
+  },
+  "社稷坛中突出的石桩子是的神位": {
+    "question": "社稷坛中突出的石桩子是()的神位。",
+    "options": [
+      "五谷之神",
+      "雨神",
+      "风神",
+      "土地之神"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:16:38"
+  },
+  "最初的祭祀活动是在林中空地的土丘上进行后来逐渐发展为用土筑坛": {
+    "question": "最初的祭祀活动是在林中空地的土丘上进行,后来逐渐发展为用土筑坛。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 22:16:42",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "庙是用来祭祀人物的建筑": {
+    "question": "“庙”是用来祭祀人物的建筑。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 22:16:46",
+    "tokens": {
+      "input": 79,
+      "output": 1,
+      "total": 80
+    }
+  },
+  "一般皇帝祭祀社稷是为了求得风调雨顺和五谷丰登": {
+    "question": "一般皇帝祭祀社稷,是为了求得风调雨顺和五谷丰登。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 22:16:49",
+    "tokens": {
+      "input": 90,
+      "output": 1,
+      "total": 91
+    }
+  },
+  "是坛类建筑中典型的代表": {
+    "question": "()是坛类建筑中典型的代表。",
+    "options": [
+      "日坛",
+      "月坛",
+      "天坛",
+      "地坛"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:23:20"
+  },
+  "北京天坛建筑的象征手法不包括": {
+    "question": "北京天坛建筑的象征手法不包括()。",
+    "options": [
+      "“色”的象征",
+      "“位”的象征",
+      "“形”的象征",
+      "“数”的象征"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:23:23"
+  },
+  "北京天坛的重要建筑都是蓝色的琉璃瓦": {
+    "question": "北京天坛的重要建筑都是蓝色的琉璃瓦。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 22:23:27",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "地坛一般是圆形的坛台": {
+    "question": "地坛一般是圆形的坛台。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 22:23:31",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "北京天坛中的是三层圆顶建筑": {
+    "question": "北京天坛中的()是三层圆顶建筑。",
+    "options": [
+      "地坛",
+      "皇穹宇",
+      "社稷坛",
+      "祈年殿"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:29:56"
+  },
+  "皇穹宇后有一条长达300多米长的御路称为": {
+    "question": "皇穹宇后有一条长达300多米长的御路,称为()。",
+    "options": [
+      "寰丘桥",
+      "祈谷桥",
+      "丹陛桥",
+      "祈年桥"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:29:59"
+  },
+  "祈年殿的屋檐边线可以连成一条接近45度的夹角": {
+    "question": "祈年殿的屋檐边线可以连成一条接近45度的夹角。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 22:30:03",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "祈年殿的圆形屋顶在明朝时期的颜色是": {
+    "question": "祈年殿的圆形屋顶在明朝时期的颜色是()。",
+    "options": [
+      "蓝绿红",
+      "红绿白",
+      "蓝绿黄",
+      "青红黄"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:37:16"
+  },
+  "天坛斋戒铜人亭中的铜人形象是": {
+    "question": "天坛斋戒铜人亭中的铜人形象是()。",
+    "options": [
+      "于成龙",
+      "魏征",
+      "卫青",
+      "管仲"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:37:19"
+  },
+  "天坛斋宫是绿色的屋顶建筑": {
+    "question": "天坛斋宫是绿色的屋顶建筑。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 22:37:23",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "天坛圜丘坛天心石周围从中心向外前三圈的石块分别都是": {
+    "question": "天坛圜丘坛天心石周围从中心向外前三圈的石块分别都是()。",
+    "options": [
+      "八块",
+      "九块",
+      "六块",
+      "十一块"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 22:43:36",
+    "tokens": {
+      "input": 106,
+      "output": 1,
+      "total": 107
+    }
+  },
+  "祈年殿内部最中央有根金柱": {
+    "question": "祈年殿内部最中央有()根金柱。",
+    "options": [
+      "9",
+      "6",
+      "4",
+      "12"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:43:39"
+  },
+  "祈年殿内外圈有12根柱子象征着一年的12个月": {
+    "question": "祈年殿内外圈有12根柱子,象征着一年的12个月。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 22:43:43",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "湖南柳州柳子庙是纪念的祠庙": {
+    "question": "湖南柳州柳子庙是纪念()的祠庙。",
+    "options": [
+      "柳庄",
+      "孔子",
+      "柳公权",
+      "柳宗元"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:53:36"
+  },
+  "古代庙宇中专门在戏台上为神演戏的祭祀方法称为": {
+    "question": "古代庙宇中专门在戏台上为神演戏的祭祀方法称为()。",
+    "options": [
+      "从祀",
+      "淫祀",
+      "配祀",
+      "娱祀"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:53:39"
+  },
+  "全国最大的孔庙是": {
+    "question": "全国最大的孔庙是()。",
+    "options": [
+      "北京孔庙",
+      "南京夫子庙",
+      "山东曲阜孔庙",
+      "西安文庙"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/8 22:53:42"
+  },
+  "全国常见的关帝庙是纪念关羽的是老百姓为表对他的崇敬而自发建造的": {
+    "question": "全国常见的关帝庙是纪念关羽的,是老百姓为表对他的崇敬而自发建造的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/8 22:53:46",
+    "tokens": {
+      "input": 94,
+      "output": 1,
+      "total": 95
+    }
+  },
+  "从时期开始就开创了以最高礼仪祭祀孔子的先河": {
+    "question": "从()时期开始，就开创了以最高礼仪祭祀孔子的先河。",
+    "options": [
+      "唐代",
+      "汉代",
+      "明代",
+      "宋代"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/9 17:10:03"
+  },
+  "祭祀孔子的建筑叫孔庙或文庙其规制是全国统一的孔庙或文庙的主殿叫": {
+    "question": "祭祀孔子的建筑叫孔庙或文庙，其规制是全国统一的，孔庙或文庙的主殿叫()。",
+    "options": [
+      "大成殿",
+      "大雄宝殿",
+      "太和殿",
+      "崇圣殿"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/9 17:10:07"
+  },
+  "文庙中最奇特的建筑是设有": {
+    "question": "文庙中最奇特的建筑是设有()。",
+    "options": [
+      "水池",
+      "辟雍",
+      "泮池",
+      "荷塘"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 17:10:11",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "历史上宋朝时期封孔子为文宣王": {
+    "question": "历史上宋朝时期封孔子为“文宣王”。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 17:10:15",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "台北孔庙的照壁叫万仞宫墙其中仞是古代度量单位一仞等于3尺": {
+    "question": "台北孔庙的照壁叫“万仞宫墙”,其中“仞”是古代度量单位,一仞等于3尺。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 17:10:19",
+    "tokens": {
+      "input": 103,
+      "output": 1,
+      "total": 104
+    }
+  },
+  "为表达对儒家思想的继承人们除了对孔子祭祀以外还要进行": {
+    "question": "为表达对儒家思想的继承,人们除了对孔子祭祀以外,还要进行()。",
+    "options": [
+      "配祀",
+      "主祀",
+      "从祀",
+      "淫祀"
+    ],
+    "type": "multiple",
+    "answer": "A#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 17:18:22",
+    "tokens": {
+      "input": 111,
+      "output": 3,
+      "total": 114
+    }
+  },
+  "文庙中的崇圣祠一般是用来祭祀": {
+    "question": "文庙中的崇圣祠一般是用来祭祀()。",
+    "options": [
+      "孔子",
+      "孔子父母",
+      "孔子五代先祖",
+      "孔子子孙"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/9 17:18:25"
+  },
+  "祭祀孔子时往往还要有四配其中四配是指子贡曾参孟子和子思": {
+    "question": "祭祀孔子时,往往还要有“四配”,其中“四配”是指子贡、曾参、孟子和子思。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 17:18:29",
+    "tokens": {
+      "input": 100,
+      "output": 1,
+      "total": 101
+    }
+  },
+  "岳庙是祭祀五岳的庙宇其中东岳是指": {
+    "question": "岳庙是祭祀五岳的庙宇，其中东岳是指()。",
+    "options": [
+      "华山",
+      "泰山",
+      "衡山",
+      "嵩山"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/9 17:34:04"
+  },
+  "南岳大庙大殿建筑等级是": {
+    "question": "南岳大庙大殿建筑等级是()。",
+    "options": [
+      "八开间",
+      "十一开间",
+      "九开间",
+      "四开间"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/9 17:34:07"
+  },
+  "南岳祭祀是皇家祭祀中心清初年间东西两侧形成排列格局": {
+    "question": "南岳祭祀是皇家祭祀中心，清初年间东西两侧形成()排列格局。",
+    "options": [
+      "六寺六观",
+      "九寺九观",
+      "四寺四观",
+      "八寺八观"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/9 17:34:10"
+  },
+  "宁远文庙龙柱采用的是高浮雕装饰艺术": {
+    "question": "宁远文庙龙柱采用的是高浮雕装饰艺术。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 17:34:14",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "祭五岳的目的是为了天下一统的江山万代永固": {
+    "question": "祭五岳的目的是为了天下一统的江山万代永固。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 17:34:18",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "在中国古代砖石拱券技术除了用于桥梁以外主要就是用在建筑中": {
+    "question": "在中国古代，砖石拱券技术除了用于桥梁以外主要就是用在()建筑中。",
+    "options": [
+      "宗教",
+      "陵墓地宫",
+      "园林",
+      "宫殿"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/9 17:55:09"
+  },
+  "中国古代最大的皇帝陵墓是": {
+    "question": "中国古代最大的皇帝陵墓是()。",
+    "options": [
+      "唐武则天乾陵",
+      "明万历皇帝定陵",
+      "秦始皇骊山陵",
+      "清乾隆皇帝裕陵"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/9 17:55:12"
+  },
+  "陵墓建筑分两部分分别是": {
+    "question": "陵墓建筑分两部分,分别是()。",
+    "options": [
+      "地宫、祭祀建筑",
+      "府邸建筑、祭祀建筑",
+      "地宫、宗教建筑",
+      "地宫、府邸建筑"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 17:55:16",
+    "tokens": {
+      "input": 108,
+      "output": 1,
+      "total": 109
+    }
+  },
+  "目前中国挖掘出的帝王陵墓不包括": {
+    "question": "目前中国挖掘出的帝王陵墓不包括()。",
+    "options": [
+      "北京十三陵定陵",
+      "清乾隆皇帝裕陵",
+      "慈禧慈安陵",
+      "唐武则天乾陵"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 17:55:20",
+    "tokens": {
+      "input": 105,
+      "output": 1,
+      "total": 106
+    }
+  },
+  "司马迁在《史记》中曾记载秦始皇陵是上具天文": {
+    "question": "司马迁在《史记》中曾记载秦始皇陵是“上具天文”。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 17:55:24",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "中国在秦朝才开始有户籍统计": {
+    "question": "中国在秦朝才开始有户籍统计。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/9 17:55:27"
+  },
+  "唐朝被发掘的太子和公主陵墓包括": {
+    "question": "唐朝被发掘的太子和公主陵墓包括()。",
+    "options": [
+      "章怀太子墓",
+      "唐武则天乾陵",
+      "懿德太子墓",
+      "永泰公主墓"
+    ],
+    "type": "multiple",
+    "answer": "A#C#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 18:49:13",
+    "tokens": {
+      "input": 113,
+      "output": 5,
+      "total": 118
+    }
+  },
+  "南朝陵墓最典型的石像生叫": {
+    "question": "南朝陵墓最典型的石像生叫()。",
+    "options": [
+      "大象",
+      "辟邪",
+      "龙",
+      "凤"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/9 18:49:16"
+  },
+  "中国现存古建筑中体量最大的三座宫殿不包括": {
+    "question": "中国现存古建筑中体量最大的三座宫殿不包括()。",
+    "options": [
+      "北京故宫太和殿",
+      "北京太庙",
+      "慈溪慈安陵",
+      "明朝长岭祾恩殿"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 18:49:20",
+    "tokens": {
+      "input": 111,
+      "output": 1,
+      "total": 112
+    }
+  },
+  "唐墓地宫墓道壁画上的十二生肖和我们今天的十二生肖是相同的": {
+    "question": "唐墓地宫墓道壁画上的十二生肖和我们今天的十二生肖是相同的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 18:49:24",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "明朝十三陵只有一条主神道": {
+    "question": "明朝十三陵只有一条主神道。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/9 18:49:28",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "在时期佛教传入后来又产生了道教": {
+    "question": "在()时期佛教传入,后来又产生了道教。",
+    "options": [
+      "东汉光武帝",
+      "东汉桓帝",
+      "东汉明帝",
+      "东汉献帝"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/10 18:28:07"
+  },
+  "中国历史上第一座佛教寺庙是现今的": {
+    "question": "中国历史上第一座佛教寺庙是现今的()。",
+    "options": [
+      "五台山佛光寺",
+      "浙江普陀山",
+      "洛阳白马寺",
+      "安徽九华山"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/10 18:28:10"
+  },
+  "下面关于宗教描述错误的是": {
+    "question": "下面关于宗教描述错误的是()。",
+    "options": [
+      "宗教的本质是“一神”",
+      "一般老百姓烧香磕头属于宗教形式",
+      "宗教都有一种道德因素",
+      "宗教的基本是奉献、苦修、信神的教育"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/10 18:28:13"
+  },
+  "在佛教传入以前中国只有传统的祭祀和一般的迷信": {
+    "question": "在佛教传入以前,中国只有传统的祭祀和一般的迷信。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/10 18:28:18",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "佛教的精髓是要六根清净": {
+    "question": "佛教的精髓是要六根清净。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/10 18:28:22",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "历史上的中国礼仪之争事件时指出在中国禁止信仰天主教": {
+    "question": "历史上的“中国礼仪之争”事件时指出在中国禁止信仰天主教。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/10 18:28:26",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "泉州保存着中国古代已消失的寺庙": {
+    "question": "泉州保存着中国古代已消失的()寺庙。",
+    "options": [
+      "喇嘛教",
+      "祆教",
+      "基督教",
+      "伊斯兰教"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/11 23:30:41",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "唐代宗教建筑的特点体现为": {
+    "question": "唐代宗教建筑的特点体现为()。",
+    "options": [
+      "屋顶坡度平缓",
+      "斗拱巨大",
+      "柱子粗壮",
+      "以上都是"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/11 23:30:44"
+  },
+  "下列选项中哪些属于道教的建筑": {
+    "question": "下列选项中，哪些属于道教的建筑？（）",
+    "options": [
+      "麓山寺",
+      "白云观",
+      "云麓宫",
+      "初祖庵"
+    ],
+    "type": "multiple",
+    "answer": "B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/11 23:30:48",
+    "tokens": {
+      "input": 106,
+      "output": 3,
+      "total": 109
+    }
+  },
+  "闽南式建筑中屋脊是生起造型": {
+    "question": "闽南式建筑中屋脊是“生起”造型。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/11 23:30:52",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "唐朝时期斗拱在建筑中起着结构的作用到了明清时期斗拱基本上只起装饰作用": {
+    "question": "唐朝时期，斗拱在建筑中起着结构的作用，到了明清时期，斗拱基本上只起装饰作用。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/11 23:30:56",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "下面属于道教建筑的是": {
+    "question": "下面属于道教建筑的是()。",
+    "options": [
+      "青城山",
+      "武当山",
+      "法门寺",
+      "泰山岱庙"
+    ],
+    "type": "multiple",
+    "answer": "A#B#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/11 23:44:31",
+    "tokens": {
+      "input": 104,
+      "output": 5,
+      "total": 109
+    }
+  },
+  "道教建筑最典型的宫观是": {
+    "question": "道教建筑最典型的宫观是()。",
+    "options": [
+      "五台山的佛光寺",
+      "五台山的南禅寺",
+      "芮城的永乐宫",
+      "福建的保国寺"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/11 23:44:34"
+  },
+  "中国道教协会位于": {
+    "question": "中国道教协会位于()。",
+    "options": [
+      "苏州玄妙观",
+      "湖北武当山",
+      "四川青城山",
+      "北京白云观"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/11 23:44:38"
+  },
+  "湖北武当山金殿全部是黄金做出来的": {
+    "question": "湖北武当山金殿全部是黄金做出来的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/11 23:44:42",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "山西芮城的永乐宫是宋代建筑": {
+    "question": "山西芮城的永乐宫是宋代建筑。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/11 23:44:45"
+  },
+  "塔的类型主要包括": {
+    "question": "塔的类型主要包括()。",
+    "options": [
+      "楼阁式塔",
+      "单层塔",
+      "密檐式塔",
+      "喇嘛塔",
+      "金钢宝座塔"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C#D#E",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 00:56:35",
+    "tokens": {
+      "input": 112,
+      "output": 9,
+      "total": 121
+    }
+  },
+  "楼阁式塔的构造是": {
+    "question": "楼阁式塔的构造是()。",
+    "options": [
+      "金字塔结构",
+      "方形结构",
+      "筒体结构",
+      "覆钵结构"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/12 00:56:38"
+  },
+  "塔传到中国最初的作用是存放": {
+    "question": "塔传到中国最初的作用是存放()。",
+    "options": [
+      "佛像",
+      "舍利",
+      "菩萨",
+      "藏书"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 00:56:42",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "下面关于密檐式塔描述错误的是": {
+    "question": "下面关于密檐式塔描述错误的是()。",
+    "options": [
+      "没有木造的塔",
+      "完全是砖石砌筑的",
+      "塔是实心的",
+      "人可以登临"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 00:56:46",
+    "tokens": {
+      "input": 104,
+      "output": 1,
+      "total": 105
+    }
+  },
+  "中国风水塔包括": {
+    "question": "中国风水塔包括()。",
+    "options": [
+      "文塔、武塔",
+      "天塔、地塔",
+      "文塔、镇妖塔",
+      "峰塔、镇妖塔"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 00:56:50",
+    "tokens": {
+      "input": 105,
+      "output": 1,
+      "total": 106
+    }
+  },
+  "镇妖塔多是为了镇压": {
+    "question": "镇妖塔多是为了镇压()。",
+    "options": [
+      "蛇妖",
+      "人妖",
+      "土妖",
+      "河妖"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 00:56:54",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "历史记载隋文帝将印度阿育王赠送的舍利其中一个保存在长沙麓山寺": {
+    "question": "历史记载隋文帝将印度阿育王赠送的舍利其中一个保存在长沙麓山寺。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 00:56:58",
+    "tokens": {
+      "input": 92,
+      "output": 1,
+      "total": 93
+    }
+  },
+  "唐代塔的特征是长方形的造型": {
+    "question": "唐代塔的特征是长方形的造型。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 00:57:02",
+    "tokens": {
+      "input": 80,
+      "output": 1,
+      "total": 81
+    }
+  },
+  "单层塔大多数是作为墓塔来使用": {
+    "question": "单层塔大多数是作为墓塔来使用。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 00:57:06",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "金钢宝座上面一般有四座小尖塔": {
+    "question": "金钢宝座上面一般有四座小尖塔。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 00:57:10",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "龙门石窟供奉的是大佛": {
+    "question": "龙门石窟供奉的是()大佛。",
+    "options": [
+      "弥勒",
+      "玄奘",
+      "卢舍那",
+      "蒙山"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 01:07:25",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "印度佛教支提是为了": {
+    "question": "印度佛教“支提”是为了()。",
+    "options": [
+      "供奉佛像",
+      "供人们祭祀",
+      "供人们祈求",
+      "供僧侣修行"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 01:07:30",
+    "tokens": {
+      "input": 98,
+      "output": 1,
+      "total": 99
+    }
+  },
+  "石窟最初起源于印度佛教的支提": {
+    "question": "石窟最初起源于印度佛教的“支提”。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 01:07:34",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "中国古代风景文化和有着紧密关系": {
+    "question": "中国古代风景文化和()有着紧密关系。",
+    "options": [
+      "人文艺术",
+      "文学艺术",
+      "美学艺术",
+      "工学艺术"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 01:26:32",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "中国园林相比西方园林其特色是体现": {
+    "question": "中国园林相比西方园林,其特色是体现()。",
+    "options": [
+      "人工之美",
+      "自然之美",
+      "文学之美",
+      "设计之美"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 01:26:36",
+    "tokens": {
+      "input": 97,
+      "output": 1,
+      "total": 98
+    }
+  },
+  "园林学专著《园冶》作者是": {
+    "question": "园林学专著《园冶》作者是()。",
+    "options": [
+      "李铮",
+      "孟兆祯",
+      "计成",
+      "王绍增"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 01:26:40",
+    "tokens": {
+      "input": 98,
+      "output": 1,
+      "total": 99
+    }
+  },
+  "风景园林起源于人类对自然美的欣赏": {
+    "question": "风景园林起源于人类对自然美的欣赏。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 01:26:44",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "中国园林完全是自然式布局": {
+    "question": "中国园林完全是自然式布局。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/12 01:26:48"
+  },
+  "中国园林大致可分为": {
+    "question": "中国园林大致可分为()。",
+    "options": [
+      "风景园林",
+      "皇家园林",
+      "私家园林",
+      "人文园林"
+    ],
+    "type": "multiple",
+    "answer": "B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 01:45:28",
+    "tokens": {
+      "input": 99,
+      "output": 3,
+      "total": 102
+    }
+  },
+  "早期皇家园林叫做": {
+    "question": "早期皇家园林叫做()。",
+    "options": [
+      "庭院",
+      "林苑",
+      "广场",
+      "苑囿"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 01:45:32",
+    "tokens": {
+      "input": 90,
+      "output": 1,
+      "total": 91
+    }
+  },
+  "据史书记载秦汉时期上林苑周长里": {
+    "question": "据史书记载秦汉时期上林苑周长()里。",
+    "options": [
+      "200",
+      "500",
+      "400",
+      "300"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 01:45:37",
+    "tokens": {
+      "input": 94,
+      "output": 1,
+      "total": 95
+    }
+  },
+  "古代皇家苑囿具有种植放养动物的功能": {
+    "question": "古代皇家苑囿具有种植、放养动物的功能。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 01:45:41",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "中国古代皇家园林一种固定手法是做大片湖面象征东海神山": {
+    "question": "中国古代皇家园林一种固定手法是做大片湖面,象征东海神山。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/12 01:45:45",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "私家园林兴起于时期": {
+    "question": "私家园林兴起于()时期。",
+    "options": [
+      "汉朝",
+      "魏晋南北朝",
+      "唐朝",
+      "宋朝"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:15:13",
+    "tokens": {
+      "input": 90,
+      "output": 1,
+      "total": 91
+    }
+  },
+  "余荫山房院墙壁上的装饰是": {
+    "question": "余荫山房院墙壁上的装饰是()。",
+    "options": [
+      "动物",
+      "人物故事",
+      "瓜果植物",
+      "山水风景"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:15:16",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "与皇家园林相比私家园林的特点是": {
+    "question": "与皇家园林相比,私家园林的特点是()。",
+    "options": [
+      "占地小",
+      "体现文人气质",
+      "建筑朴素",
+      "以上都是"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:15:20",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "私家园林常常被冠名为文人园林": {
+    "question": "私家园林常常被冠名为文人园林。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:15:24",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "魏晋南北朝时期除了园林艺术同时还有山水诗山水画艺术的兴起": {
+    "question": "魏晋南北朝时期除了园林艺术,同时还有山水诗、山水画艺术的兴起。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:15:28",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "近代历史上在岳麓书院接受教育的人物有": {
+    "question": "近代历史上在岳麓书院接受教育的人物有()。",
+    "options": [
+      "魏源",
+      "曾国藩",
+      "左宗棠",
+      "以上都是"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:38:53",
+    "tokens": {
+      "input": 97,
+      "output": 1,
+      "total": 98
+    }
+  },
+  "江西白鹿洞书院选址是在脚下": {
+    "question": "江西白鹿洞书院选址是在()脚下。",
+    "options": [
+      "麓山",
+      "泰山",
+      "庐山",
+      "嵩山"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:38:57",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "低等级启蒙性书院也就是现今的幼儿园": {
+    "question": "低等级、启蒙性书院也就是现今的幼儿园。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:39:01",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "一般等级越高的书院会选址在风景优美的深山之中": {
+    "question": "一般等级越高的书院,会选址在风景优美的深山之中。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:39:05",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "下面关于中国古代书院的教育方式说法错误的是": {
+    "question": "下面关于中国古代书院的教育方式说法错误的是()。",
+    "options": [
+      "讲学内容各书院自由确定",
+      "没有固定学习时间",
+      "讲堂是书院的核心",
+      "每个班有固定学习人数"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:56:06",
+    "tokens": {
+      "input": 108,
+      "output": 1,
+      "total": 109
+    }
+  },
+  "中国古代东南三贤不包括": {
+    "question": "中国古代“东南三贤”不包括()。",
+    "options": [
+      "张栻",
+      "朱熹",
+      "顾宪成",
+      "吕祖谦"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:56:10",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "东林书院的创办者是": {
+    "question": "东林书院的创办者是()。",
+    "options": [
+      "宾步程",
+      "顾宪成",
+      "张栻",
+      "胡林翼"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:56:13",
+    "tokens": {
+      "input": 97,
+      "output": 1,
+      "total": 98
+    }
+  },
+  "湖南平江天岳书院建筑屋顶式样式封火墙": {
+    "question": "湖南平江天岳书院建筑屋顶式样式封火墙。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:56:17",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "岳麓书院藏书的建筑叫藏书楼": {
+    "question": "岳麓书院藏书的建筑叫“藏书楼”。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 22:56:22",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "岳麓书院专祠位置排列中船山祠纪念的是": {
+    "question": "岳麓书院专祠位置排列中“船山祠”纪念的是()。",
+    "options": [
+      "张栻",
+      "朱熹",
+      "王夫之",
+      "周敦颐"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 23:08:46",
+    "tokens": {
+      "input": 104,
+      "output": 1,
+      "total": 105
+    }
+  },
+  "嵩阳书院专门祭祀孔子的殿堂叫": {
+    "question": "嵩阳书院专门祭祀孔子的殿堂叫()。",
+    "options": [
+      "文昌庙",
+      "宋名臣祠",
+      "崇道祠",
+      "道统祠"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 23:08:50",
+    "tokens": {
+      "input": 100,
+      "output": 1,
+      "total": 101
+    }
+  },
+  "中国古代官办书院一般不设文庙来祭孔子": {
+    "question": "中国古代官办书院一般不设文庙来祭孔子。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/13 23:08:54",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "岳麓书院四个字是宋朝题写的": {
+    "question": "“岳麓书院”四个字是宋朝()题写的。",
+    "options": [
+      "仁宗皇帝",
+      "徽宗皇帝",
+      "真宗皇帝",
+      "太宗皇帝"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 00:05:05",
+    "tokens": {
+      "input": 100,
+      "output": 1,
+      "total": 101
+    }
+  },
+  "皇家建筑等级的象征是造有": {
+    "question": "皇家建筑等级的象征是造有()。",
+    "options": [
+      "龙柱",
+      "大成殿",
+      "祠堂",
+      "丹墀"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 00:05:09",
+    "tokens": {
+      "input": 94,
+      "output": 1,
+      "total": 95
+    }
+  },
+  "岳麓书院中百泉轩旁卫生间名称叫": {
+    "question": "岳麓书院中百泉轩旁卫生间名称叫()。",
+    "options": [
+      "东司",
+      "净手",
+      "更衣",
+      "厕所"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 00:05:14",
+    "tokens": {
+      "input": 97,
+      "output": 1,
+      "total": 98
+    }
+  },
+  "岳麓书院讲堂内学达性天道南正脉牌匾都是康熙皇帝题写的": {
+    "question": "岳麓书院讲堂内“学达性天”、“道南正脉”牌匾都是康熙皇帝题写的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 00:05:18",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "宋朝主持岳麓书院的院长是朱熹": {
+    "question": "宋朝主持岳麓书院的院长是朱熹。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "bank3",
+    "bankName": "中国古代建筑欣赏与设计",
+    "time": "2026/11/14 00:05:21"
+  },
+  "从时期开始有祠堂建筑": {
+    "question": "从()时期开始有祠堂建筑。",
+    "options": [
+      "春秋战国",
+      "唐代",
+      "秦汉",
+      "魏晋南北"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 00:36:53",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "中国古代祠堂最豪华的是": {
+    "question": "中国古代祠堂最豪华的是()。",
+    "options": [
+      "金塘杨氏宗祠",
+      "广州陈家祠",
+      "广州钟氏祠堂",
+      "宁波陈氏祠堂"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 00:36:57",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "中国近代以后属于西洋式祠堂是": {
+    "question": "中国近代以后属于西洋式祠堂是()。",
+    "options": [
+      "广州陈家祠",
+      "北京太庙",
+      "卢氏家庙",
+      "金塘杨氏宗祠"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 00:37:02",
+    "tokens": {
+      "input": 103,
+      "output": 1,
+      "total": 104
+    }
+  },
+  "北京太庙是皇帝祭祀祖宗的建筑": {
+    "question": "北京太庙是皇帝祭祀祖宗的建筑。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 00:37:06",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "广州陈家祠屋近上是木雕装饰": {
+    "question": "广州陈家祠屋近上是木雕装饰。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 00:37:10",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "湘潭鲁班殿是行业会馆": {
+    "question": "湘潭鲁班殿是()行业会馆。",
+    "options": [
+      "盐",
+      "屠宰",
+      "泥木",
+      "船帮"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 01:15:05",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "地域性会馆是由建造的": {
+    "question": "地域性会馆是由()建造的。",
+    "options": [
+      "外地同行业商人",
+      "本地著名商人",
+      "流动商人",
+      "旅居外地的同乡人士"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 01:15:09",
+    "tokens": {
+      "input": 102,
+      "output": 1,
+      "total": 103
+    }
+  },
+  "自贡西秦会馆是行业的会馆建筑": {
+    "question": "自贡西秦会馆是()行业的会馆建筑。",
+    "options": [
+      "布业",
+      "盐业",
+      "钱业",
+      "泥木业"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 01:15:13",
+    "tokens": {
+      "input": 99,
+      "output": 1,
+      "total": 100
+    }
+  },
+  "全国各地的江西会馆都叫做": {
+    "question": "全国各地的江西会馆都叫做()。",
+    "options": [
+      "关帝庙",
+      "禹王宫",
+      "万寿宫",
+      "天后宫"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 01:15:17",
+    "tokens": {
+      "input": 97,
+      "output": 1,
+      "total": 98
+    }
+  },
+  "湖南芷江天后宫牌楼装饰是": {
+    "question": "湖南芷江天后宫牌楼装饰是()。",
+    "options": [
+      "木雕",
+      "土雕",
+      "泥塑",
+      "石雕"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 01:15:20",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "会馆是中国封建时代后期最早出现的建筑形式": {
+    "question": "会馆是中国封建时代后期最早出现的建筑形式。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 01:15:24",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "行业性会馆和地域性会馆共同特点是具有攀比性": {
+    "question": "行业性会馆和地域性会馆共同特点是具有攀比性。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 01:15:28",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "会馆同祠堂一样有些有戏台有些无戏台": {
+    "question": "会馆同祠堂一样,有些有戏台,有些无戏台。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/14 01:15:32",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "山西平遥屋顶是": {
+    "question": "山西平遥屋顶是()。",
+    "options": [
+      "两面坡",
+      "四面坡",
+      "三面坡",
+      "单坡"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/15 23:02:23",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "山西四合院最大特点是": {
+    "question": "山西四合院最大特点是()。",
+    "options": [
+      "正方形庭院",
+      "圆形庭院",
+      "纵长条形庭院",
+      "两厢房距离远"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/15 23:02:29",
+    "tokens": {
+      "input": 97,
+      "output": 1,
+      "total": 98
+    }
+  },
+  "三合院是由三栋住宅围合成一个院落": {
+    "question": "三合院是由三栋住宅围合成一个院落。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/15 23:02:35",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "南方天井院最大特点是": {
+    "question": "南方天井院最大特点是()。",
+    "options": [
+      "四栋建筑独立",
+      "四栋建筑相连",
+      "庭院很大",
+      "屋顶形成“井”形"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/15 23:05:45",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "南方天井院从类型上讲属于四合院": {
+    "question": "南方天井院从类型上讲属于四合院。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/15 23:05:51",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "窑洞式民居主要分布在地区": {
+    "question": "窑洞式民居主要分布在()地区。",
+    "options": [
+      "山西",
+      "陕西",
+      "河南",
+      "以上都是"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/15 23:23:08",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "平地窑民居多见于": {
+    "question": "平地窑民居多见于()。",
+    "options": [
+      "平遥",
+      "自贡",
+      "巩县",
+      "芷江"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/15 23:23:14",
+    "tokens": {
+      "input": 92,
+      "output": 1,
+      "total": 93
+    }
+  },
+  "窑洞式民居实际上是远古时代穴居的延续": {
+    "question": "窑洞式民居实际上是远古时代穴居的延续。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/15 23:23:18",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "下面关于南方干栏式建筑说法正确的是": {
+    "question": "下面关于南方干栏式建筑说法正确的是()。",
+    "options": [
+      "也称“吊脚楼”",
+      "大多是全木结构",
+      "必须建造在平地上",
+      "特点是干燥凉爽"
+    ],
+    "type": "multiple",
+    "answer": "A#B#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/15 23:57:03",
+    "tokens": {
+      "input": 113,
+      "output": 5,
+      "total": 118
+    }
+  },
+  "南方干栏式建筑主要分布在地区": {
+    "question": "南方干栏式建筑主要分布在()地区。",
+    "options": [
+      "东北",
+      "东南",
+      "西南",
+      "西北"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/15 23:57:09",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "南方干栏式建筑主要是由巢居演变过来的": {
+    "question": "南方干栏式建筑主要是由巢居演变过来的。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/15 23:57:15",
+    "tokens": {
+      "input": 84,
+      "output": 1,
+      "total": 85
+    }
+  },
+  "土楼式民居是由于原因而产生的": {
+    "question": "土楼式民居是由于()原因而产生的。",
+    "options": [
+      "地理气候",
+      "生活方式",
+      "材料与构造工艺",
+      "特殊历史和社会"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 00:22:32",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "土楼式民居最大特点是": {
+    "question": "土楼式民居最大特点是()。",
+    "options": [
+      "冬暖夏凉",
+      "防潮",
+      "防御",
+      "少数民族居住"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 00:22:36",
+    "tokens": {
+      "input": 94,
+      "output": 1,
+      "total": 95
+    }
+  },
+  "福建五凤楼的屋顶是硬山式": {
+    "question": "福建五凤楼的屋顶是硬山式。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 00:22:41",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "碉楼式民居主要分布在": {
+    "question": "碉楼式民居主要分布在()。",
+    "options": [
+      "西北区",
+      "西南区",
+      "新疆",
+      "藏区"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 00:52:24",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "毡包式民居住宅最典型的是在地区": {
+    "question": "毡包式民居住宅最典型的是在()地区。",
+    "options": [
+      "西藏",
+      "新疆",
+      "蒙古",
+      "青海"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 00:52:28",
+    "tokens": {
+      "input": 94,
+      "output": 1,
+      "total": 95
+    }
+  },
+  "碉楼式民居主要是起防御作用": {
+    "question": "碉楼式民居主要是起防御作用。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 00:52:32",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "中国古代桥梁按不同的建造材料可分为": {
+    "question": "中国古代桥梁按不同的建造材料可分为()。",
+    "options": [
+      "拱桥",
+      "石桥",
+      "木桥",
+      "梁桥"
+    ],
+    "type": "multiple",
+    "answer": "B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 01:10:04",
+    "tokens": {
+      "input": 102,
+      "output": 3,
+      "total": 105
+    }
+  },
+  "侗族人喜欢建造廊桥是因为他们": {
+    "question": "侗族人喜欢建造廊桥,是因为他们()。",
+    "options": [
+      "建造技术水平高",
+      "有钱",
+      "好公益",
+      "需要祭祀"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 01:10:08",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "南方桥梁石块上常刻有形象的图案装饰": {
+    "question": "南方桥梁石块上常刻有()形象的图案装饰。",
+    "options": [
+      "龙",
+      "蛇",
+      "鹰",
+      "蜈蚣"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 01:10:12",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "平桥桥身上一般建有廊或亭子": {
+    "question": "平桥桥身上一般建有廊或亭子。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 01:10:15",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "赵州桥属于梁桥": {
+    "question": "赵州桥属于梁桥。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 01:10:19",
+    "tokens": {
+      "input": 79,
+      "output": 1,
+      "total": 80
+    }
+  },
+  "在古代只有经过的表彰才能建牌楼牌坊": {
+    "question": "在古代，只有经过（）的表彰，才能建牌楼、牌坊。",
+    "options": [
+      "族长",
+      "地方官",
+      "中央政府",
+      "皇帝"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 19:42:25",
+    "tokens": {
+      "input": 98,
+      "output": 1,
+      "total": 99
+    }
+  },
+  "中国古代有很多纪念性牌楼下列属于可以被纪念的人是": {
+    "question": "中国古代有很多纪念性牌楼，下列属于可以被纪念的人是（）。",
+    "options": [
+      "状元大官",
+      "乐善好施者",
+      "贞洁女性",
+      "高寿老人"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 19:42:31",
+    "tokens": {
+      "input": 112,
+      "output": 7,
+      "total": 119
+    }
+  },
+  "北京十三陵牌楼属于纪念性牌楼": {
+    "question": "北京十三陵牌楼属于纪念性牌楼。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 19:42:36",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "一般来说牌楼和牌坊不用严格区分如果要严格区分那么上部有小屋顶的应该被称作牌楼没有小屋顶的则被称为牌坊": {
+    "question": "一般来说牌楼和牌坊不用严格区分，如果要严格区分，那么上部有小屋顶的应该被称作牌楼，没有小屋顶的则被称为牌坊。",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 19:42:43",
+    "tokens": {
+      "input": 105,
+      "output": 1,
+      "total": 106
+    }
+  },
+  "梁思成先生指出日本应该保护的古建筑包括": {
+    "question": "梁思成先生指出日本应该保护的古建筑包括()。",
+    "options": [
+      "广岛",
+      "京都",
+      "长崎",
+      "奈良"
+    ],
+    "type": "multiple",
+    "answer": "B#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 20:25:48",
+    "tokens": {
+      "input": 105,
+      "output": 3,
+      "total": 108
+    }
+  },
+  "我们常常所说是石头的史书": {
+    "question": "我们常常所说()是石头的史书。",
+    "options": [
+      "文物",
+      "文字",
+      "建筑",
+      "器物"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 20:25:54",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "保存一个国家自己的民族文化也是保护世界文化艺术的多样性": {
+    "question": "保存一个国家自己的民族文化也是保护世界文化艺术的多样性。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 20:26:00",
+    "tokens": {
+      "input": 83,
+      "output": 1,
+      "total": 84
+    }
+  },
+  "古建筑问题的根源包括": {
+    "question": "古建筑问题的根源包括()。",
+    "options": [
+      "对“现代化”的错误理解",
+      "地方政府不重视古建筑的保护",
+      "老百姓文化素质不高,保护意识不强",
+      "管理不善而被人破坏,或者被盗"
+    ],
+    "type": "multiple",
+    "answer": "A#B#C#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 21:55:14",
+    "tokens": {
+      "input": 120,
+      "output": 7,
+      "total": 127
+    }
+  },
+  "保留古建筑意味着落后只有新建筑才代表先进发达": {
+    "question": "保留古建筑意味着落后,只有新建筑才代表先进、发达。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 21:55:21",
+    "tokens": {
+      "input": 87,
+      "output": 1,
+      "total": 88
+    }
+  },
+  "农村空心化是古建筑问题的根源之一": {
+    "question": "农村空心化是古建筑问题的根源之一。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 21:56:17",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "古建筑消失的原因主要是": {
+    "question": "古建筑消失的原因主要是()。",
+    "options": [
+      "经济的因素",
+      "建设性破坏",
+      "革命的因素",
+      "环境的因素"
+    ],
+    "type": "multiple",
+    "answer": "B#C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 23:10:59",
+    "tokens": {
+      "input": 101,
+      "output": 7,
+      "total": 108
+    }
+  },
+  "长沙古城墙是三个朝代建设起来的": {
+    "question": "长沙古城墙是()三个朝代建设起来的。",
+    "options": [
+      "宋、汉、元",
+      "元、清、明",
+      "春秋、宋、明",
+      "宋、元、明"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 23:11:03",
+    "tokens": {
+      "input": 107,
+      "output": 1,
+      "total": 108
+    }
+  },
+  "田汉故居位于": {
+    "question": "田汉故居位于()。",
+    "options": [
+      "福建",
+      "曲阜",
+      "长沙",
+      "北京"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 23:11:07",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "由于对古建筑的保护当今长沙还保留了完整的古典园林": {
+    "question": "由于对古建筑的保护,当今长沙还保留了完整的古典园林。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 23:11:11",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "历史上长沙城最威武的一栋西洋式建筑是国货陈列馆": {
+    "question": "历史上长沙城最威武的一栋西洋式建筑是国货陈列馆。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 23:11:15",
+    "tokens": {
+      "input": 88,
+      "output": 1,
+      "total": 89
+    }
+  },
+  "邵阳杜氏先祠建筑式样是": {
+    "question": "邵阳杜氏先祠建筑式样是()。",
+    "options": [
+      "庑殿顶",
+      "悬山顶",
+      "封火墙",
+      "卷棚顶"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 23:38:38",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "祁阳李氏宗祠门口石雕的抱鼓石上是": {
+    "question": "祁阳李氏宗祠门口石雕的抱鼓石上是()。",
+    "options": [
+      "龙",
+      "麒麟",
+      "虎",
+      "狮子"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 23:38:42",
+    "tokens": {
+      "input": 96,
+      "output": 1,
+      "total": 97
+    }
+  },
+  "一般木造的古建筑比较符合原则": {
+    "question": "一般木造的古建筑比较符合()原则。",
+    "options": [
+      "人文",
+      "生态",
+      "经济",
+      "自然"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 23:38:46",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "茶陵老街上建筑的阳台采用的是西洋式": {
+    "question": "茶陵老街上建筑的阳台采用的是西洋式。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 23:38:49",
+    "tokens": {
+      "input": 82,
+      "output": 1,
+      "total": 83
+    }
+  },
+  "古建筑的保护往往同它的环境生态保护直接相关": {
+    "question": "古建筑的保护往往同它的环境、生态保护直接相关。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/16 23:38:54",
+    "tokens": {
+      "input": 85,
+      "output": 1,
+      "total": 86
+    }
+  },
+  "罗马拥有世界最大的大教堂": {
+    "question": "罗马拥有世界最大的()大教堂。",
+    "options": [
+      "赛尔维",
+      "圣彼得",
+      "圣保罗",
+      "佛罗伦萨"
+    ],
+    "type": "single",
+    "answer": "B",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/17 00:05:01",
+    "tokens": {
+      "input": 95,
+      "output": 1,
+      "total": 96
+    }
+  },
+  "号称是欧洲最美古城之一的是": {
+    "question": "号称是欧洲最美古城之一的是()。",
+    "options": [
+      "米兰",
+      "雅典",
+      "布拉格",
+      "维罗纳"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/17 00:05:04",
+    "tokens": {
+      "input": 93,
+      "output": 1,
+      "total": 94
+    }
+  },
+  "韩国大成殿是纪念": {
+    "question": "韩国大成殿是纪念()。",
+    "options": [
+      "老子",
+      "孟子",
+      "荀子",
+      "孔子"
+    ],
+    "type": "single",
+    "answer": "D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/17 00:05:08",
+    "tokens": {
+      "input": 89,
+      "output": 1,
+      "total": 90
+    }
+  },
+  "荷兰阿姆斯特丹城市建筑特色是在水流和街道之间": {
+    "question": "荷兰阿姆斯特丹城市建筑特色是在水流和街道之间。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/17 00:05:12",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  },
+  "日本古代的城市是武士将军驻扎的地方": {
+    "question": "日本古代的城市是武士将军驻扎的地方。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/17 00:05:16",
+    "tokens": {
+      "input": 81,
+      "output": 1,
+      "total": 82
+    }
+  },
+  "长沙设计有贾谊故居他的著作包括": {
+    "question": "长沙设计有贾谊故居,他的著作包括()。",
+    "options": [
+      "《周礼》",
+      "《考工记》",
+      "《过秦论》",
+      "《郛鸟赋》"
+    ],
+    "type": "multiple",
+    "answer": "C#D",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/17 00:31:13",
+    "tokens": {
+      "input": 110,
+      "output": 3,
+      "total": 113
+    }
+  },
+  "岳麓书院屈子祠屋顶式样是": {
+    "question": "岳麓书院屈子祠屋顶式样是()。",
+    "options": [
+      "庑殿式",
+      "封火墙",
+      "卷棚式",
+      "硬山式"
+    ],
+    "type": "single",
+    "answer": "C",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/17 00:31:18",
+    "tokens": {
+      "input": 102,
+      "output": 1,
+      "total": 103
+    }
+  },
+  "日本川木野市设计有专门纪念的建筑": {
+    "question": "日本川木野市设计有专门纪念()的建筑。",
+    "options": [
+      "徐福",
+      "野田佳彦",
+      "伊藤博文",
+      "原敬"
+    ],
+    "type": "single",
+    "answer": "A",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/17 00:31:23",
+    "tokens": {
+      "input": 101,
+      "output": 1,
+      "total": 102
+    }
+  },
+  "中国古人设计建筑往往坚持见山推平见水填平的原则": {
+    "question": "中国古人设计建筑往往坚持“见山推平、见水填平”的原则。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "错误",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/17 00:31:29",
+    "tokens": {
+      "input": 91,
+      "output": 1,
+      "total": 92
+    }
+  },
+  "茶陵在中国历史上曾存在以李东阳为首的诗派": {
+    "question": "茶陵在中国历史上曾存在以李东阳为首的诗派。()",
+    "options": [
+      "对",
+      "错"
+    ],
+    "type": "judgement",
+    "answer": "正确",
+    "source": "ai",
+    "bankName": "DeepSeek AI",
+    "time": "2026/11/17 00:31:34",
+    "tokens": {
+      "input": 86,
+      "output": 1,
+      "total": 87
+    }
+  }
+}

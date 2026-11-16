@@ -1,0 +1,12 @@
+{
+  "name": "题库复习",
+  "short_name": "复习",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#2563eb",
+  "icons": [
+    { "src": "./icon.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

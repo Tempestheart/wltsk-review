@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>题库复习</title>
+<link rel="manifest" href="./manifest.json">
+<link rel="apple-touch-icon" href="./icon.png">
+<meta name="theme-color" content="#2563eb">
+<style>
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; background:#f5f6f8; color:#1f2328; padding-bottom: env(safe-area-inset-bottom); }
+  .app { max-width: 760px; margin: 0 auto; padding: 24px 16px 60px; }
+  h1 { font-size: 20px; margin: 0 0 16px; }
+  .toolbar { display:flex; gap:10px; flex-wrap:wrap; align-items:center; margin-bottom:16px; }
+  button { font: inherit; padding: 8px 14px; border:1px solid #d0d7de; background:#fff; border-radius:8px; cursor:pointer; }
+  button:hover { background:#f3f4f6; }
+  button:disabled { opacity:.45; cursor:not-allowed; }
+  button.primary { background:#2563eb; border-color:#2563eb; color:#fff; }
+  button.primary:hover { background:#1d4ed8; }
+  button.danger { color:#b91c1c; border-color:#fecaca; }
+  .card { background:#fff; border:1px solid #e5e7eb; border-radius:12px; padding:20px; }
+  .meta { color:#6b7280; font-size:13px; margin-bottom:12px; display:flex; justify-content:space-between; gap:10px; }
+  .stem { font-size:17px; line-height:1.6; margin-bottom:16px; white-space:pre-wrap; }
+  .option { display:flex; gap:10px; align-items:flex-start; padding:10px 12px; border:1px solid #e5e7eb; border-radius:8px; margin-bottom:8px; cursor:pointer; }
+  .option:hover { border-color:#93c5fd; background:#f8fbff; }
+  .option.selected { border-color:#2563eb; background:#eff6ff; }
+  .option.correct { border-color:#16a34a; background:#f0fdf4; }
+  .option.wrong { border-color:#dc2626; background:#fef2f2; }
+  .option input { margin-top:3px; }
+  .key { font-weight:600; min-width:18px; }
+  .feedback { margin-top:14px; padding:12px; border-radius:8px; font-size:14px; display:none; }
+  .feedback.show { display:block; }
+  .feedback.ok { background:#f0fdf4; color:#166534; }
+  .feedback.bad { background:#fef2f2; color:#991b1b; }
+  .nav { display:flex; justify-content:space-between; gap:10px; margin-top:18px; }
+  .hint { color:#6b7280; font-size:13px; }
+  .info { color:#2563eb; font-size:13px; margin-bottom:12px; }
+  .stats { color:#6b7280; font-size:13px; margin-left:auto; }
+  textarea { width:100%; min-height:120px; font-family:ui-monospace,monospace; font-size:12px; padding:10px; border:1px solid #d0d7de; border-radius:8px; }
+  .hidden { display:none !important; }
+</style>
+</head>
+<body>
+<div class="app">
+  <h1>题库复习</h1>
+
+  <div id="loader">
+    <div class="toolbar">
+      <button id="loadBuiltinBtn" class="primary">加载内置题库</button>
+      <input type="file" id="fileInput" accept=".json,application/json" multiple>
+      <button id="togglePaste">粘贴 JSON</button>
+    </div>
+    <div id="pasteBox" class="hidden" style="margin-bottom:12px;">
+      <textarea id="pasteArea" placeholder='粘贴题库 JSON（数组或对象字典均可）'></textarea>
+      <div class="toolbar" style="margin-top:8px;">
+        <button id="loadPaste" class="primary">解析粘贴内容</button>
+      </div>
+    </div>
+    <p id="loaderStatus" class="hint">正在检查本地进度…</p>
+  </div>
+
+  <div id="quiz" class="hidden">
+    <div class="toolbar" style="margin-bottom:12px;">
+      <button id="shuffleBtn">打乱顺序</button>
+      <button id="exportBtn">导出错题</button>
+      <button id="resetBtn">清空进度</button>
+      <button id="clearAllBtn" class="danger">清除全部</button>
+      <span id="stats" class="stats"></span>
+    </div>
+    <div id="loadInfo" class="info"></div>
+    <div class="card">
+      <div class="meta">
+        <span id="progress">1 / 0</span>
+        <span id="typeLabel"></span>
+      </div>
+      <div class="stem" id="stem"></div>
+      <div id="options"></div>
+      <div class="feedback" id="feedback"></div>
+    </div>
+    <div class="nav">
+      <button id="prevBtn">上一题</button>
+      <button id="submitBtn" class="primary">提交答案</button>
+      <button id="nextBtn">下一题</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  // ===== 题库文件列表：把你实际的文件名都填进来 =====
+  const BANK_FILES = [
+    './questions1.json',
+    './questions2.json',
+    './questions3.json',
+    './questions4.json',
+    './ai_cache1.json',
+    './ai_cache2.json',
+    './ai_cache3.json',
+    './ai_cache4.json'
+  ];
+
+  const SESSION_KEY = 'review_session';
+  const BANKS_DISABLED_KEY = 'review_banks_disabled';
+
+  let questions = [];
+  let index = 0;
+  let state = [];
+
+  const $ = id => document.getElementById(id);
+
+  // ---------- 持久化 ----------
+  function persist(){
+    try {
+      localStorage.setItem(SESSION_KEY, JSON.stringify({
+        questions, state, index, savedAt: Date.now()
+      }));
+    } catch (e) {
+      // 容量超限时至少保住进度
+      try {
+        localStorage.setItem(SESSION_KEY, JSON.stringify({
+          questions: [], state, index, savedAt: Date.now()
+        }));
+      } catch (_) {}
+    }
+  }
+
+  function tryRestore(){
+    const raw = localStorage.getItem(SESSION_KEY);
+    if (!raw) return false;
+    try {
+      const saved = JSON.parse(raw);
+      if (saved.questions?.length && saved.state?.length === saved.questions.length) {
+        questions = saved.questions;
+        state = saved.state;
+        index = Math.min(saved.index || 0, questions.length - 1);
+        showQuiz();
+        $('loadInfo').textContent = '已从本地恢复 ' + questions.length + ' 题';
+        render();
+        return true;
+      }
+    } catch (_) {}
+    return false;
+  }
+
+  // ---------- 题库加载 ----------
+  function extractList(data){
+    if (Array.isArray(data)) return data;
+    if (data && Array.isArray(data.questions)) return data.questions;
+    if (data && Array.isArray(data.list)) return data.list;
+    if (data && typeof data === 'object') {
+      const vals = Object.values(data);
+      if (vals.length && vals.every(v => v && typeof v === 'object' && !Array.isArray(v))) {
+        return vals;
+      }
+    }
+    return [];
+  }
+
+  async function loadBanks(){
+    const all = [];
+    for (const url of BANK_FILES) {
+      try {
+        const resp = await fetch(url);
+        if (!resp.ok) continue;
+        const data = await resp.json();
+        all.push(...extractList(data));
+      } catch (e) {
+        // 单个文件失败不影响其它
+      }
+    }
+    return all;
+  }
+
+  function normalizeTitle(s){
+    return String(s).replace(/[\s\u3000]/g, '').replace(/[？?。.、，,；;：:！!（）()“”"']/g, '');
+  }
+
+  function normalizeQuestion(raw){
+    const q = raw || {};
+    const title = q.title ?? q.question ?? q.stem ?? q.题干 ?? '';
+    const rawType = String(q.type ?? q.题型 ?? 'single').toLowerCase();
+
+    let type = '单选';
+    if (/multiple|多选/.test(rawType)) type = '多选';
+    else if (/judgement|判断|truefalse/.test(rawType)) type = '判断';
+    else if (/single|单选/.test(rawType)) type = '单选';
+
+    let optionsRaw = q.options ?? q.choices ?? q.选项 ?? [];
+    let options = [];
+
+    if (Array.isArray(optionsRaw)) {
+      options = optionsRaw.map((o, i) => {
+        if (typeof o === 'string') {
+          const m = o.match(/^\s*([A-Za-z])[\.、:：\s]\s*(.*)$/);
+          if (m) return { key: m[1].toUpperCase(), text: m[2] };
+          return { key: String.fromCharCode(65 + i), text: o };
+        }
+        if (o && typeof o === 'object') {
+          return { key: String(o.key ?? o.value ?? String.fromCharCode(65+i)).toUpperCase(), text: String(o.text ?? o.label ?? '') };
+        }
+        return { key: String.fromCharCode(65 + i), text: String(o) };
+      });
+    } else if (optionsRaw && typeof optionsRaw === 'object') {
+      options = Object.entries(optionsRaw).map(([k, v]) => ({ key: String(k).toUpperCase(), text: String(v) }));
+    }
+
+    const isJudge = type === '判断';
+    if (isJudge) {
+      options = [{ key: 'A', text: '正确' }, { key: 'B', text: '错误' }];
+    }
+
+    let answerRaw = q.answer ?? q.correct ?? q.答案 ?? '';
+    let answers = [];
+
+    if (isJudge) {
+      const s = String(answerRaw).trim();
+      if (/^(正确|对|true|A)$/i.test(s)) answers = ['A'];
+      else if (/^(错误|错|false|B)$/i.test(s)) answers = ['B'];
+    } else if (Array.isArray(answerRaw)) {
+      answers = answerRaw.map(s => String(s).trim().toUpperCase());
+    } else {
+      answers = String(answerRaw).split(/[#,\s，、]+/).filter(Boolean).map(s => s.trim().toUpperCase());
+    }
+
+    return { title: String(title), type, options, answers };
+  }
+
+  function loadQuestions(list){
+    const seen = new Set();
+    let dup = 0, invalid = 0;
+    questions = [];
+
+    for (const raw of list) {
+      const q = normalizeQuestion(raw);
+      if (!q.title || !q.options.length || !q.answers.length) { invalid++; continue; }
+      const key = normalizeTitle(q.title) + '|' + q.options.map(o => o.text).join('|');
+      if (seen.has(key)) { dup++; continue; }
+      seen.add(key);
+      questions.push(q);
+    }
+
+    if (!questions.length) { alert('没有解析到有效题目'); return; }
+
+    state = questions.map(() => ({ selected: [], submitted: false, correct: null }));
+    index = 0;
+    showQuiz();
+
+    const parts = ['已加载 ' + questions.length + ' 题'];
+    if (dup) parts.push('去重 ' + dup + ' 题');
+    if (invalid) parts.push('跳过无效 ' + invalid + ' 题');
+    $('loadInfo').textContent = parts.join('，');
+
+    persist();
+    render();
+  }
+
+  function showQuiz(){
+    $('loader').classList.add('hidden');
+    $('quiz').classList.remove('hidden');
+  }
+
+  // ---------- 渲染 ----------
+  function current(){ return questions[index]; }
+  function currentState(){ return state[index]; }
+
+  function getStats(){
+    let correct = 0, wrong = 0, unanswered = 0;
+    state.forEach(st => {
+      if (!st.submitted) unanswered++;
+      else if (st.correct) correct++;
+      else wrong++;
+    });
+    return { correct, wrong, unanswered };
+  }
+
+  function render(){
+    const q = current(), st = currentState();
+    $('progress').textContent = (index + 1) + ' / ' + questions.length;
+    $('typeLabel').textContent = q.type;
+    $('stem').textContent = q.title;
+
+    const s = getStats();
+    $('stats').textContent = '对 ' + s.correct + ' · 错 ' + s.wrong + ' · 未答 ' + s.unanswered;
+
+    const box = $('options');
+    box.innerHTML = '';
+    const multi = q.type === '多选' || q.answers.length > 1;
+
+    q.options.forEach(opt => {
+      const label = document.createElement('label');
+      label.className = 'option';
+      if (st.selected.includes(opt.key)) label.classList.add('selected');
+      if (st.submitted) {
+        if (q.answers.includes(opt.key)) label.classList.add('correct');
+        else if (st.selected.includes(opt.key)) label.classList.add('wrong');
+        label.style.cursor = 'default';
+      }
+
+      const input = document.createElement('input');
+      input.type = multi ? 'checkbox' : 'radio';
+      input.name = 'opt';
+      input.value = opt.key;
+      input.checked = st.selected.includes(opt.key);
+      input.disabled = st.submitted;
+      input.addEventListener('change', () => {
+        if (multi) {
+          if (input.checked) st.selected.push(opt.key);
+          else st.selected = st.selected.filter(k => k !== opt.key);
+        } else {
+          st.selected = [opt.key];
+        }
+        render();
+      });
+
+      const key = document.createElement('span');
+      key.className = 'key';
+      key.textContent = opt.key + '.';
+      const text = document.createElement('span');
+      text.textContent = opt.text;
+
+      label.append(input, key, text);
+      box.appendChild(label);
+    });
+
+    const fb = $('feedback');
+    fb.className = 'feedback';
+    if (st.submitted) {
+      fb.classList.add('show', st.correct ? 'ok' : 'bad');
+      fb.textContent = st.correct
+        ? '回答正确！正确答案：' + q.answers.join('#')
+        : '回答错误。你的答案：' + (st.selected.join('#') || '未选') + '；正确答案：' + q.answers.join('#');
+    }
+
+    $('prevBtn').disabled = index === 0;
+    $('nextBtn').disabled = index === questions.length - 1;
+    $('submitBtn').disabled = st.submitted;
+  }
+
+  // ---------- 动作 ----------
+  function submit(){
+    const q = current(), st = currentState();
+    if (st.submitted) return;
+    if (!st.selected.length) { alert('请先选择答案'); return; }
+    const a = [...st.selected].sort().join('#');
+    const b = [...q.answers].sort().join('#');
+    st.correct = a === b;
+    st.submitted = true;
+    persist();
+    render();
+  }
+
+  function shuffle(){
+    const pairs = questions.map((q, i) => ({ q, s: state[i] }));
+    for (let i = pairs.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [pairs[i], pairs[j]] = [pairs[j], pairs[i]];
+    }
+    questions = pairs.map(p => p.q);
+    state = pairs.map(p => p.s);
+    index = 0;
+    persist();
+    render();
+  }
+
+  function exportWrong(){
+    const wrongs = [];
+    questions.forEach((q, i) => {
+      const st = state[i];
+      if (!st.submitted || st.correct) return;
+      const type = q.type === '单选' ? 'single' : q.type === '多选' ? 'multiple' : 'judgement';
+      const answer = q.type === '判断'
+        ? (q.answers[0] === 'A' ? '正确' : '错误')
+        : q.answers.join('#');
+      wrongs.push({
+        type,
+        question: q.title,
+        options: q.options.map(o => o.text),
+        answer
+      });
+    });
+
+    if (!wrongs.length) { alert('还没有答错的题'); return; }
+
+    const now = new Date();
+    const pad = n => String(n).padStart(2, '0');
+    const stamp = now.getFullYear() + pad(now.getMonth()+1) + pad(now.getDate())
+                + '_' + pad(now.getHours()) + pad(now.getMinutes()) + pad(now.getSeconds());
+    const blob = new Blob([JSON.stringify(wrongs, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = '错题_' + stamp + '.json';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }
+
+  function resetProgress(){
+    if (!questions.length) return;
+    if (!confirm('清空答题进度？题库保留。')) return;
+    state = questions.map(() => ({ selected: [], submitted: false, correct: null }));
+    index = 0;
+    persist();
+    render();
+    $('loadInfo').textContent = '进度已清空，题库保留';
+  }
+
+  function clearAll(){
+    if (!confirm('将删除本地题库和答题进度，回到初始状态。确定？')) return;
+    localStorage.removeItem(SESSION_KEY);
+    localStorage.setItem(BANKS_DISABLED_KEY, '1');
+    location.reload();
+  }
+
+  async function loadBuiltin(){
+    $('loaderStatus').textContent = '正在加载内置题库…';
+    localStorage.removeItem(BANKS_DISABLED_KEY);
+    const list = await loadBanks();
+    if (list.length) {
+      loadQuestions(list);
+    } else {
+      $('loaderStatus').textContent = '没有加载到内置题库，请检查网络或文件，也可以手动选择文件。';
+    }
+  }
+
+  // ---------- 启动 ----------
+  async function boot(){
+    if (tryRestore()) return;
+    if (localStorage.getItem(BANKS_DISABLED_KEY)) {
+      $('loaderStatus').textContent = '本地数据已清除。可重新加载内置题库或手动选择文件。';
+      return;
+    }
+    $('loaderStatus').textContent = '正在加载内置题库…';
+    const list = await loadBanks();
+    if (list.length) {
+      loadQuestions(list);
+    } else {
+      $('loaderStatus').textContent = '没有加载到内置题库，请检查网络或文件，也可以手动选择文件。';
+    }
+  }
+
+  // ---------- 事件绑定 ----------
+  $('prevBtn').onclick = () => { if (index > 0) { index--; persist(); render(); } };
+  $('nextBtn').onclick = () => { if (index < questions.length - 1) { index++; persist(); render(); } };
+  $('submitBtn').onclick = submit;
+  $('shuffleBtn').onclick = shuffle;
+  $('exportBtn').onclick = exportWrong;
+  $('resetBtn').onclick = resetProgress;
+  $('clearAllBtn').onclick = clearAll;
+  $('loadBuiltinBtn').onclick = loadBuiltin;
+
+  $('fileInput').addEventListener('change', async e => {
+    const files = [...e.target.files];
+    if (!files.length) return;
+    let all = [];
+    for (const file of files) {
+      try {
+        const text = await file.text();
+        const data = JSON.parse(text);
+        all = all.concat(extractList(data));
+      } catch (err) {
+        alert(file.name + ' 解析失败：' + err.message);
+      }
+    }
+    loadQuestions(all);
+    e.target.value = '';
+  });
+
+  $('togglePaste').onclick = () => $('pasteBox').classList.toggle('hidden');
+  $('loadPaste').onclick = () => {
+    try {
+      const data = JSON.parse($('pasteArea').value);
+      loadQuestions(extractList(data));
+    } catch (err) {
+      alert('JSON 解析失败：' + err.message);
+    }
+  };
+
+  // ---------- 注册 Service Worker ----------
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('./sw.js').catch(() => {});
+  }
+
+  boot();
+})();
+</script>
+</body>
+</html>
